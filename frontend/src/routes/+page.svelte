@@ -9,7 +9,7 @@
             <div class='text-center grid grid-cols-1 gap-2 text-md/tight w-full mt-20 text-gray-900'>
                 <p class='py-2'>Vind techniek die past bij jou. Maak een account aan en begin met het verkennen van verschillende mogelijkheden.</p>
                 <a href='/register' class='px-4 py-3 border-2 border-gray-900 font-bold uppercase rounded-4xl w-full'>Register</a>
-                <a href='/register' class='px-4 py-3 border-2 border-gray-900 font-bold uppercase rounded-4xl w-full'>Login</a>
+                <a href='/login' class='px-4 py-3 border-2 border-gray-900 font-bold uppercase rounded-4xl w-full'>Login</a>
                 <p class='text-xs uppercase font-semibold'>Hacking by the Sea @ 2025</p>
             </div>
         </div>
