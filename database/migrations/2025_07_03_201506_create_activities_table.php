@@ -17,7 +17,8 @@ return new class extends Migration
             $table->unsignedBigInteger('profession_id');
             $table->integer('time_spent');
             $table->boolean('is_liked');
-            $table->boolean('is_description_opened');
+            $table->timestamp('seen_at')->nullable();
+            $table->boolean('is_description_opened')->default(false);
             $table->foreign('user_id')->references('id')->on('users')->onDelete('cascade');
             $table->foreign('profession_id')->references('id')->on('professions')->onDelete('cascade');
             $table->timestamps();

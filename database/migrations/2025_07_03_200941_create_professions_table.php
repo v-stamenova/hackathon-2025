@@ -26,7 +26,6 @@ return new class extends Migration
             $table->decimal('social_interaction');
             $table->decimal('consulting');
             $table->boolean('decimal')->default(false);
-            $table->timestamp('seen_at')->nullable();
             $table->timestamps();
         });
     }
