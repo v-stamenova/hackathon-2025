@@ -30,8 +30,6 @@ const tempResponse = {
  */
 export async function register(req, res) {
   try {
-        console.log('sending')
-
     // Call the microservice function to create a user
     const createUserResponse = await axios.post(`http://api:3012/users`, {
       name: req.body.name,
@@ -42,7 +40,6 @@ export async function register(req, res) {
         'Content-Type': 'application/x-www-form-urlencoded'
       }
     });
-        console.log('sent')
 
     // Get the newly created user
     const getUserResponse = await axios.get(`http://api:3012/users/email/${createUserResponse.data.data.email}`);

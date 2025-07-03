@@ -62,8 +62,11 @@ export const actions = {
 
       // Sets new cookie that contains the JWT token of the user
       cookies.set("jwt", data.data.data.token, {
+        path: "/",
         httpOnly: true,
-        maxAge: 60 * 60 * 24
+        maxAge: 60 * 60 * 24,
+        secure: true, // should be true in production (HTTPS)
+        sameSite: "lax"
       });
 
     } catch (err) {
