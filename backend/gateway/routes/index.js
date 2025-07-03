@@ -12,6 +12,14 @@ router.use(cors({
 }));
 router.use(morgan());
 
+const apiProxy = createProxyMiddleware({
+  target: 'http://api:3012',
+  changeOrigin: true,
+  onProxyReq: fixRequestBody,
+});
+
+router.use('/api', cors(), requireAuth, apiProxy);
+
 router.post('/register', cors(), register);
 router.post('/login', cors(), login);
 

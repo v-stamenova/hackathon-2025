@@ -30,8 +30,10 @@ const tempResponse = {
  */
 export async function register(req, res) {
   try {
+        console.log('sending')
+
     // Call the microservice function to create a user
-    const createUserResponse = await axios.post(`${process.env.API_URL}/users`, {
+    const createUserResponse = await axios.post(`http://api:3012/users`, {
       name: req.body.name,
       password: req.body.password,
       email: req.body.email
@@ -40,9 +42,10 @@ export async function register(req, res) {
         'Content-Type': 'application/x-www-form-urlencoded'
       }
     });
+        console.log('sent')
 
     // Get the newly created user
-    const getUserResponse = await axios.get(`${process.env.API_URL}/users/email/${createUserResponse.data.data.email}`);
+    const getUserResponse = await axios.get(`http://api:3012/users/email/${createUserResponse.data.data.email}`);
 
     // Create a JWT token
     const token = createToken(getUserResponse.data.data.id);
@@ -52,6 +55,7 @@ export async function register(req, res) {
   } catch (err) {
     tempResponse.data.message = 'Issue with the registration occurred';
     tempResponse.data.details = err.response.data.data;
+    console.log(err.response.data.data)
     res.status(409).send(tempResponse);
   }
 }
@@ -64,7 +68,7 @@ export async function register(req, res) {
 export async function login(req, res) {
   try {
     // Get the current user
-    const getUserResponse = await axios.get(`${process.env.API_URL}/users/email/${req.body.email}`);
+    const getUserResponse = await axios.get(`http://api:3012/users/email/${req.body.email}`);
 
     // Check the passwords that are matching
     if (getUserResponse.data.data.password) {

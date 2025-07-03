@@ -33,6 +33,8 @@ export async function getAllUsers() {
  */
 export async function createNewUser(name, email, password) {
   const saltRounds = 12;
+            console.log('132213123213');
+
 
   // Using bcrypt alg to hash the password
   const hash = await bcrypt.hash(password, saltRounds);
