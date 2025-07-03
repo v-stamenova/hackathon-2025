@@ -1,0 +1,426 @@
+[
+  {
+    "job_title": "Verpleegkundige medische technologie",
+    "domain": "Mens & Gezondheid",
+    "description": "Biedt zorg aan patiënten met behulp van medische technologie en apparatuur.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – grote vraag naar zorgprofessionals met technologische vaardigheden.",
+    "themes": [3, 3, 6, 4, 7, 8, 6]
+  },
+  {
+    "job_title": "Medisch analist",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert laboratoriumonderzoek uit voor diagnose of medicijnontwikkeling.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – specialistisch werk, met goede vooruitzichten bij actuele tekorten.",
+    "themes": [2, 2, 3, 5, 9, 4, 3]
+  },
+  {
+    "job_title": "Operatieassistent",
+    "domain": "Mens & Gezondheid",
+    "description": "Assisteert in de uitvoering van medische behandelingen of bij de voorbereiding daarvan.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [2, 2, 7, 3, 6, 7, 5]
+  },
+  {
+    "job_title": "Medisch technicus",
+    "domain": "Mens & Gezondheid",
+    "description": "Werkt aan het ontwikkelen, onderhouden of toepassen van medische technologie.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – technologische zorgfuncties zijn sterk in opkomst.",
+    "themes": [4, 5, 4, 5, 8, 4, 4]
+  },
+  {
+    "job_title": "Apothekersassistent",
+    "domain": "Mens & Gezondheid",
+    "description": "Assisteert in de uitvoering van medische behandelingen of bij de voorbereiding daarvan.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [1, 1, 2, 3, 6, 6, 4]
+  },
+  {
+    "job_title": "Prothesemaker",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert gespecialiseerde werkzaamheden uit binnen de medische technologie of zorg.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [7, 8, 5, 4, 7, 3, 3]
+  },
+  {
+    "job_title": "Laborant medische apparatuur",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert laboratoriumonderzoek uit voor diagnose of medicijnontwikkeling.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – specialistisch werk, met goede vooruitzichten bij actuele tekorten.",
+    "themes": [2, 2, 3, 4, 9, 3, 3]
+  },
+  {
+    "job_title": "Bloedbanktechnicus",
+    "domain": "Mens & Gezondheid",
+    "description": "Werkt aan het ontwikkelen, onderhouden of toepassen van medische technologie.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – technologische zorgfuncties zijn sterk in opkomst.",
+    "themes": [3, 4, 4, 4, 8, 4, 3]
+  },
+  {
+    "job_title": "Tandtechnicus",
+    "domain": "Mens & Gezondheid",
+    "description": "Werkt aan het ontwikkelen, onderhouden of toepassen van medische technologie.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – technologische zorgfuncties zijn sterk in opkomst.",
+    "themes": [6, 7, 5, 3, 7, 3, 3]
+  },
+  {
+    "job_title": "Systeembeheerder medische apparatuur",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert gespecialiseerde werkzaamheden uit binnen de medische technologie of zorg.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [2, 3, 3, 3, 8, 4, 4]
+  },
+  {
+    "job_title": "Biomedisch onderzoeksassistent",
+    "domain": "Mens & Gezondheid",
+    "description": "Assisteert in de uitvoering van medische behandelingen of bij de voorbereiding daarvan.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [3, 3, 3, 4, 8, 5, 4]
+  },
+  {
+    "job_title": "Technicus revalidatietechnologie",
+    "domain": "Mens & Gezondheid",
+    "description": "Werkt aan het ontwikkelen, onderhouden of toepassen van medische technologie.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – technologische zorgfuncties zijn sterk in opkomst.",
+    "themes": [4, 5, 6, 5, 7, 4, 4]
+  },
+  {
+    "job_title": "Verzorger domotica",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert gespecialiseerde werkzaamheden uit binnen de medische technologie of zorg.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [2, 3, 5, 4, 6, 7, 5]
+  },
+  {
+    "job_title": "Technisch opticien",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert gespecialiseerde werkzaamheden uit binnen de medische technologie of zorg.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [4, 5, 4, 3, 7, 5, 4]
+  },
+  {
+    "job_title": "Radiodiagnostisch laborant",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert laboratoriumonderzoek uit voor diagnose of medicijnontwikkeling.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – specialistisch werk, met goede vooruitzichten bij actuele tekorten.",
+    "themes": [3, 3, 3, 4, 9, 4, 4]
+  },
+  {
+    "job_title": "Biomedisch technoloog",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert gespecialiseerde werkzaamheden uit binnen de medische technologie of zorg.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [5, 6, 4, 5, 8, 5, 5]
+  },
+  {
+    "job_title": "Medisch softwareontwikkelaar",
+    "domain": "Mens & Gezondheid",
+    "description": "Ontwikkelt of analyseert software en dataoplossingen voor de zorgsector.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – digitalisering in de zorg zorgt voor veel vraag.",
+    "themes": [6, 7, 2, 4, 10, 3, 5]
+  },
+  {
+    "job_title": "Farmaceutisch technicus",
+    "domain": "Mens & Gezondheid",
+    "description": "Werkt aan het ontwikkelen, onderhouden of toepassen van medische technologie.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – technologische zorgfuncties zijn sterk in opkomst.",
+    "themes": [3, 4, 3, 5, 8, 4, 4]
+  },
+  {
+    "job_title": "Technisch oogheelkundig assistent",
+    "domain": "Mens & Gezondheid",
+    "description": "Assisteert in de uitvoering van medische behandelingen of bij de voorbereiding daarvan.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [3, 4, 4, 3, 7, 6, 5]
+  },
+  {
+    "job_title": "Medisch data-analist",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert laboratoriumonderzoek uit voor diagnose of medicijnontwikkeling.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – specialistisch werk, met goede vooruitzichten bij actuele tekorten.",
+    "themes": [3, 3, 2, 4, 10, 4, 4]
+  },
+  {
+    "job_title": "Hart-longtechnicus",
+    "domain": "Mens & Gezondheid",
+    "description": "Werkt aan het ontwikkelen, onderhouden of toepassen van medische technologie.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – technologische zorgfuncties zijn sterk in opkomst.",
+    "themes": [4, 5, 5, 4, 8, 5, 5]
+  },
+  {
+    "job_title": "Technisch geneeskundige",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert gespecialiseerde werkzaamheden uit binnen de medische technologie of zorg.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [3, 4, 3, 4, 8, 4, 4]
+  },
+  {
+    "job_title": "Radiotherapeutisch laborant",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert laboratoriumonderzoek uit voor diagnose of medicijnontwikkeling.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – specialistisch werk, met goede vooruitzichten bij actuele tekorten.",
+    "themes": [3, 3, 2, 4, 9, 4, 4]
+  },
+  {
+    "job_title": "Orthopedisch technoloog",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert gespecialiseerde werkzaamheden uit binnen de medische technologie of zorg.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [4, 5, 4, 4, 8, 4, 4]
+  },
+  {
+    "job_title": "Ziekenhuisengineer",
+    "domain": "Mens & Gezondheid",
+    "description": "Ontwerpt of verbetert medische apparaten, systemen of zorgomgevingen.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – innovaties in de zorg vragen om technisch ontwerp.",
+    "themes": [6, 8, 4, 5, 9, 5, 6]
+  },
+  {
+    "job_title": "Diagnostisch laboratoriumtechnoloog",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert gespecialiseerde werkzaamheden uit binnen de medische technologie of zorg.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [3, 3, 3, 4, 8, 4, 4]
+  },
+  {
+    "job_title": "Geriatrisch technologisch ontwerper",
+    "domain": "Mens & Gezondheid",
+    "description": "Ontwerpt of verbetert medische apparaten, systemen of zorgomgevingen.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – innovaties in de zorg vragen om technisch ontwerp.",
+    "themes": [7, 9, 3, 6, 8, 5, 6]
+  },
+  {
+    "job_title": "Gezondheidszorginformaticus",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert gespecialiseerde werkzaamheden uit binnen de medische technologie of zorg.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [4, 5, 3, 4, 9, 5, 5]
+  },
+  {
+    "job_title": "Specialist medische imaging",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert gespecialiseerde werkzaamheden uit binnen de medische technologie of zorg.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [4, 5, 3, 4, 9, 5, 5]
+  },
+  { 
+    "job_title": "Ontwerper medisch apparatuur",
+    "domain": "Mens & Gezondheid",
+    "description": "Ontwerpt of verbetert medische apparaten, systemen of zorgomgevingen.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – innovaties in de zorg vragen om technisch ontwerp.",
+    "themes": [7, 10, 3, 4, 7, 5, 6]
+  },
+  {
+    "job_title": "Zorgtechnoloog",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert gespecialiseerde werkzaamheden uit binnen de medische technologie of zorg.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [5, 6, 4, 4, 7, 6, 5]
+  },
+  {
+    "job_title": "Medisch projectleider",
+    "domain": "Mens & Gezondheid",
+    "description": "Stuurt zorgtechnologische projecten aan binnen instellingen of R&D.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – hogere functies met groeiende relevantie.",
+    "themes": [4, 5, 2, 3, 8, 8, 9]
+  },
+  {
+    "job_title": "Labmanager",
+    "domain": "Mens & Gezondheid",
+    "description": "Stuurt zorgtechnologische projecten aan binnen instellingen of R&D.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – hogere functies met groeiende relevantie.",
+    "themes": [4, 5, 2, 3, 8, 7, 8]
+  },
+  {
+    "job_title": "Geriatrisch verpleegkundige",
+    "domain": "Mens & Gezondheid",
+    "description": "Biedt zorg aan patiënten met behulp van medische technologie en apparatuur.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – grote vraag naar zorgprofessionals met technologische vaardigheden.",
+    "themes": [4, 3, 8, 4, 6, 9, 6]
+  },
+  {
+    "job_title": "Specialist zorgtechnologie",
+    "domain": "Mens & Gezondheid",
+    "description": "Werkt aan het ontwikkelen, onderhouden of toepassen van medische technologie.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – technologische zorgfuncties zijn sterk in opkomst.",
+    "themes": [5, 6, 3, 4, 8, 6, 7]
+  },
+  {
+    "job_title": "Chirurg met robotondersteuning",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert medische operaties uit met ondersteuning van moderne technologie.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – gespecialiseerd werk met hoge instapdrempel.",
+    "themes": [4, 4, 9, 3, 8, 7, 7]
+  },
+  {
+    "job_title": "Wetenschapper orgaankweek",
+    "domain": "Mens & Gezondheid",
+    "description": "Doet geavanceerd onderzoek naar medische toepassingen of innovaties.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – onderzoek is essentieel, maar posities zijn beperkt.",
+    "themes": [6, 5, 2, 5, 10, 4, 5]
+  },
+  {
+    "job_title": "Genetisch onderzoeker",
+    "domain": "Mens & Gezondheid",
+    "description": "Doet geavanceerd onderzoek naar medische toepassingen of innovaties.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – onderzoek is essentieel, maar posities zijn beperkt.",
+    "themes": [5, 4, 2, 5, 10, 4, 4]
+  },
+  {
+    "job_title": "Neurotechnoloog",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert gespecialiseerde werkzaamheden uit binnen de medische technologie of zorg.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [5, 5, 3, 4, 9, 5, 5]
+  },
+  {
+    "job_title": "Klinisch fysicus",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert gespecialiseerde werkzaamheden uit binnen de medische technologie of zorg.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [4, 5, 2, 3, 10, 4, 5]
+  },
+  {
+    "job_title": "Kunstmatige orgaanontwerper",
+    "domain": "Mens & Gezondheid",
+    "description": "Ontwerpt of verbetert medische apparaten, systemen of zorgomgevingen.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – innovaties in de zorg vragen om technisch ontwerp.",
+    "themes": [7, 10, 3, 5, 8, 5, 6]
+  },
+  {
+    "job_title": "Robotica-specialist chirurgie",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert medische operaties uit met ondersteuning van moderne technologie.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – gespecialiseerd werk met hoge instapdrempel.",
+    "themes": [5, 5, 8, 3, 9, 6, 7]
+  },
+  {
+    "job_title": "Epidemioloog",
+    "domain": "Mens & Gezondheid",
+    "description": "Analyseert ziektepatronen of gezondheidsdata voor beleid en onderzoek.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – belangrijk vakgebied, groeiende belangstelling na COVID-19.",
+    "themes": [4, 3, 2, 7, 10, 5, 7]
+  },
+  {
+    "job_title": "Klinisch chemicus",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert gespecialiseerde werkzaamheden uit binnen de medische technologie of zorg.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [3, 4, 2, 4, 10, 4, 5]
+  },
+  {
+    "job_title": "Biomaterialen onderzoeker",
+    "domain": "Mens & Gezondheid",
+    "description": "Doet geavanceerd onderzoek naar medische toepassingen of innovaties.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – onderzoek is essentieel, maar posities zijn beperkt.",
+    "themes": [6, 6, 2, 7, 9, 4, 5]
+  },
+  {
+    "job_title": "Microbioloog",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert gespecialiseerde werkzaamheden uit binnen de medische technologie of zorg.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [4, 4, 2, 5, 9, 4, 5]
+  },
+  {
+    "job_title": "Nanochirurg",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert medische operaties uit met ondersteuning van moderne technologie.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – gespecialiseerd werk met hoge instapdrempel.",
+    "themes": [5, 5, 9, 3, 9, 6, 7]
+  },
+  {
+    "job_title": "Patholoog",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert gespecialiseerde werkzaamheden uit binnen de medische technologie of zorg.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [3, 4, 2, 4, 10, 4, 5]
+  },
+  {
+    "job_title": "Medisch natuurkundige",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert gespecialiseerde werkzaamheden uit binnen de medische technologie of zorg.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [4, 5, 2, 4, 10, 4, 5]
+  },
+  {
+    "job_title": "Klinisch geneticus",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert gespecialiseerde werkzaamheden uit binnen de medische technologie of zorg.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [4, 5, 2, 4, 10, 4, 5]
+  },
+  {
+    "job_title": "Biostatisticus",
+    "domain": "Mens & Gezondheid",
+    "description": "Analyseert ziektepatronen of gezondheidsdata voor beleid en onderzoek.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – belangrijk vakgebied, groeiende belangstelling na COVID-19.",
+    "themes": [3, 3, 1, 5, 10, 3, 6]
+  },
+  {
+    "job_title": "Wetenschapper medische AI",
+    "domain": "Mens & Gezondheid",
+    "description": "Doet geavanceerd onderzoek naar medische toepassingen of innovaties.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – onderzoek is essentieel, maar posities zijn beperkt.",
+    "themes": [6, 5, 2, 6, 10, 4, 6]
+  },
+  {
+    "job_title": "Biomedisch engineer",
+    "domain": "Mens & Gezondheid",
+    "description": "Ontwerpt of verbetert medische apparaten, systemen of zorgomgevingen.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – innovaties in de zorg vragen om technisch ontwerp.",
+    "themes": [7, 10, 3, 5, 8, 5, 6]
+  }
+]

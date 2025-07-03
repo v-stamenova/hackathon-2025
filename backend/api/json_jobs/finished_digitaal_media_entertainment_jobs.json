@@ -1,0 +1,82 @@
+[
+  {
+    "job_title": "Game developer",
+    "domain": "Digitaal, Media & Entertainment",
+    "description": "Ontwikkelt software of games voor diverse digitale toepassingen.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – grote vraag naar ontwikkelaars in alle sectoren.",
+    "themes": [8, 7, 1, 1, 9, 3, 4]
+  },
+  {
+    "job_title": "Webdesigner",
+    "domain": "Digitaal, Media & Entertainment",
+    "description": "Ontwerpt gebruiksvriendelijke websites of digitale interfaces.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – visueel ontwerp blijft belangrijk, vooral met UX-kennis.",
+    "themes": [9, 10, 1, 1, 6, 4, 3]
+  },
+  {
+    "job_title": "Software engineer",
+    "domain": "Digitaal, Media & Entertainment",
+    "description": "Ontwikkelt software of games voor diverse digitale toepassingen.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – grote vraag naar ontwikkelaars in alle sectoren.",
+    "themes": [7, 6, 1, 1, 9, 3, 5]
+  },
+  {
+    "job_title": "Cybersecurity consultant",
+    "domain": "Digitaal, Media & Entertainment",
+    "description": "Adviseert organisaties over data, beveiliging of digitale systemen.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – digitalisering en databeveiliging zijn topprioriteiten.",
+    "themes": [5, 4, 1, 2, 10, 6, 9]
+  },
+  {
+    "job_title": "Technicus slimme systemen",
+    "domain": "Digitaal, Media & Entertainment",
+    "description": "Werkt aan slimme digitale systemen of apparaten.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – technologische toepassingen breiden zich snel uit.",
+    "themes": [6, 5, 3, 3, 8, 3, 5]
+  },
+  {
+    "job_title": "Data-analyse consultant",
+    "domain": "Digitaal, Media & Entertainment",
+    "description": "Adviseert organisaties over data, beveiliging of digitale systemen.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – digitalisering en databeveiliging zijn topprioriteiten.",
+    "themes": [4, 3, 1, 2, 10, 5, 10]
+  },
+  {
+    "job_title": "UX/UI-ontwerper",
+    "domain": "Digitaal, Media & Entertainment",
+    "description": "Ontwerpt gebruiksvriendelijke websites of digitale interfaces.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – visueel ontwerp blijft belangrijk, vooral met UX-kennis.",
+    "themes": [9, 10, 1, 1, 7, 5, 4]
+  },
+  {
+    "job_title": "AI-onderzoeker",
+    "domain": "Digitaal, Media & Entertainment",
+    "description": "Onderzoekt of past kunstmatige intelligentie en datatechnologie toe met oog op ethiek en efficiëntie.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – AI en data zijn snelgroeiende domeinen met veel loopbaanmogelijkheden.",
+    "themes": [6, 4, 1, 3, 10, 4, 7]
+  },
+  {
+    "job_title": "Data scientist",
+    "domain": "Digitaal, Media & Entertainment",
+    "description": "Onderzoekt of past kunstmatige intelligentie en datatechnologie toe met oog op ethiek en efficiëntie.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – AI en data zijn snelgroeiende domeinen met veel loopbaanmogelijkheden.",
+    "themes": [5, 4, 1, 3, 10, 3, 6]
+  },
+  {
+    "job_title": "Ethiek en AI specialist",
+    "domain": "Digitaal, Media & Entertainment",
+    "description": "Onderzoekt of past kunstmatige intelligentie en datatechnologie toe met oog op ethiek en efficiëntie.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – AI en data zijn snelgroeiende domeinen met veel loopbaanmogelijkheden.",
+    "themes": [5, 3, 1, 5, 9, 6, 8]
+  }
+]
