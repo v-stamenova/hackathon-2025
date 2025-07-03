@@ -8,9 +8,8 @@ import { openDatabaseConnection, closeDatabaseConnection } from './database.js';
 export async function getProfessionsData(amount) {
   return new Promise(async (resolve, reject) => {
     const db = await openDatabaseConnection();
-    const sql = 'SELECT * FROM professions ORDER BY RANDOM() LIMIT ?';
-    const params = [amount];
-    db.all(sql, params, (err, rows) => {
+    const sql = `SELECT * FROM professions ORDER BY RANDOM() LIMIT ${amount}`;
+    db.all(sql, (err, rows) => {
       closeDatabaseConnection(db);
       if (err) {
         console.error(err);
@@ -32,8 +31,7 @@ export async function getProfessionsData(amount) {
 export async function updateProfessionInstanceScore(score, professionId) {
   return new Promise(async (resolve, reject) => {
     const db = await openDatabaseConnection();
-    const update = 'UPDATE professions SET score = score + ? WHERE id = ? AND score + ? > 0';
-    const params = [score, professionId, score];
+    const update = `UPDATE professions SET score = score + ${score} WHERE id = ${professionId} AND score + ${score} > 0`;
       
     db.run(update, params, (err) => {
       closeDatabaseConnection(db);
