@@ -1,0 +1,3010 @@
+[
+  {
+    "job_title": "Verpleegkundige medische technologie",
+    "domain": "Mens & Gezondheid",
+    "description": "Biedt zorg aan patiënten met behulp van medische technologie en apparatuur.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – grote vraag naar zorgprofessionals met technologische vaardigheden.",
+    "themes": [
+      3,
+      3,
+      6,
+      4,
+      7,
+      8,
+      6
+    ]
+  },
+  {
+    "job_title": "Medisch analist",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert laboratoriumonderzoek uit voor diagnose of medicijnontwikkeling.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – specialistisch werk, met goede vooruitzichten bij actuele tekorten.",
+    "themes": [
+      2,
+      2,
+      3,
+      5,
+      9,
+      4,
+      3
+    ]
+  },
+  {
+    "job_title": "Operatieassistent",
+    "domain": "Mens & Gezondheid",
+    "description": "Assisteert in de uitvoering van medische behandelingen of bij de voorbereiding daarvan.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [
+      2,
+      2,
+      7,
+      3,
+      6,
+      7,
+      5
+    ]
+  },
+  {
+    "job_title": "Medisch technicus",
+    "domain": "Mens & Gezondheid",
+    "description": "Werkt aan het ontwikkelen, onderhouden of toepassen van medische technologie.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – technologische zorgfuncties zijn sterk in opkomst.",
+    "themes": [
+      4,
+      5,
+      4,
+      5,
+      8,
+      4,
+      4
+    ]
+  },
+  {
+    "job_title": "Apothekersassistent",
+    "domain": "Mens & Gezondheid",
+    "description": "Assisteert in de uitvoering van medische behandelingen of bij de voorbereiding daarvan.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [
+      1,
+      1,
+      2,
+      3,
+      6,
+      6,
+      4
+    ]
+  },
+  {
+    "job_title": "Prothesemaker",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert gespecialiseerde werkzaamheden uit binnen de medische technologie of zorg.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [
+      7,
+      8,
+      5,
+      4,
+      7,
+      3,
+      3
+    ]
+  },
+  {
+    "job_title": "Laborant medische apparatuur",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert laboratoriumonderzoek uit voor diagnose of medicijnontwikkeling.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – specialistisch werk, met goede vooruitzichten bij actuele tekorten.",
+    "themes": [
+      2,
+      2,
+      3,
+      4,
+      9,
+      3,
+      3
+    ]
+  },
+  {
+    "job_title": "Bloedbanktechnicus",
+    "domain": "Mens & Gezondheid",
+    "description": "Werkt aan het ontwikkelen, onderhouden of toepassen van medische technologie.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – technologische zorgfuncties zijn sterk in opkomst.",
+    "themes": [
+      3,
+      4,
+      4,
+      4,
+      8,
+      4,
+      3
+    ]
+  },
+  {
+    "job_title": "Tandtechnicus",
+    "domain": "Mens & Gezondheid",
+    "description": "Werkt aan het ontwikkelen, onderhouden of toepassen van medische technologie.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – technologische zorgfuncties zijn sterk in opkomst.",
+    "themes": [
+      6,
+      7,
+      5,
+      3,
+      7,
+      3,
+      3
+    ]
+  },
+  {
+    "job_title": "Systeembeheerder medische apparatuur",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert gespecialiseerde werkzaamheden uit binnen de medische technologie of zorg.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [
+      2,
+      3,
+      3,
+      3,
+      8,
+      4,
+      4
+    ]
+  },
+  {
+    "job_title": "Biomedisch onderzoeksassistent",
+    "domain": "Mens & Gezondheid",
+    "description": "Assisteert in de uitvoering van medische behandelingen of bij de voorbereiding daarvan.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [
+      3,
+      3,
+      3,
+      4,
+      8,
+      5,
+      4
+    ]
+  },
+  {
+    "job_title": "Technicus revalidatietechnologie",
+    "domain": "Mens & Gezondheid",
+    "description": "Werkt aan het ontwikkelen, onderhouden of toepassen van medische technologie.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – technologische zorgfuncties zijn sterk in opkomst.",
+    "themes": [
+      4,
+      5,
+      6,
+      5,
+      7,
+      4,
+      4
+    ]
+  },
+  {
+    "job_title": "Verzorger domotica",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert gespecialiseerde werkzaamheden uit binnen de medische technologie of zorg.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [
+      2,
+      3,
+      5,
+      4,
+      6,
+      7,
+      5
+    ]
+  },
+  {
+    "job_title": "Medisch softwareontwikkelaar",
+    "domain": "Mens & Gezondheid",
+    "description": "Ontwikkelt of analyseert software en dataoplossingen voor de zorgsector.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – digitalisering in de zorg zorgt voor veel vraag.",
+    "themes": [
+      6,
+      7,
+      2,
+      4,
+      10,
+      3,
+      5
+    ]
+  },
+  {
+    "job_title": "Farmaceutisch technicus",
+    "domain": "Mens & Gezondheid",
+    "description": "Werkt aan het ontwikkelen, onderhouden of toepassen van medische technologie.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – technologische zorgfuncties zijn sterk in opkomst.",
+    "themes": [
+      3,
+      4,
+      3,
+      5,
+      8,
+      4,
+      4
+    ]
+  },
+  {
+    "job_title": "Medisch data-analist",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert laboratoriumonderzoek uit voor diagnose of medicijnontwikkeling.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – specialistisch werk, met goede vooruitzichten bij actuele tekorten.",
+    "themes": [
+      3,
+      3,
+      2,
+      4,
+      10,
+      4,
+      4
+    ]
+  },
+  {
+    "job_title": "Radiotherapeutisch laborant",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert laboratoriumonderzoek uit voor diagnose of medicijnontwikkeling.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – specialistisch werk, met goede vooruitzichten bij actuele tekorten.",
+    "themes": [
+      3,
+      3,
+      2,
+      4,
+      9,
+      4,
+      4
+    ]
+  },
+  {
+    "job_title": "Orthopedisch technoloog",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert gespecialiseerde werkzaamheden uit binnen de medische technologie of zorg.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [
+      4,
+      5,
+      4,
+      4,
+      8,
+      4,
+      4
+    ]
+  },
+  {
+    "job_title": "Diagnostisch laboratoriumtechnoloog",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert gespecialiseerde werkzaamheden uit binnen de medische technologie of zorg.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [
+      3,
+      3,
+      3,
+      4,
+      8,
+      4,
+      4
+    ]
+  },
+  {
+    "job_title": "Geriatrisch technologisch ontwerper",
+    "domain": "Mens & Gezondheid",
+    "description": "Ontwerpt of verbetert medische apparaten, systemen of zorgomgevingen.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – innovaties in de zorg vragen om technisch ontwerp.",
+    "themes": [
+      7,
+      9,
+      3,
+      6,
+      8,
+      5,
+      6
+    ]
+  },
+  {
+    "job_title": "Specialist medische imaging",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert gespecialiseerde werkzaamheden uit binnen de medische technologie of zorg.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [
+      4,
+      5,
+      3,
+      4,
+      9,
+      5,
+      5
+    ]
+  },
+  {
+    "job_title": "Ontwerper medisch apparatuur",
+    "domain": "Mens & Gezondheid",
+    "description": "Ontwerpt of verbetert medische apparaten, systemen of zorgomgevingen.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – innovaties in de zorg vragen om technisch ontwerp.",
+    "themes": [
+      7,
+      10,
+      3,
+      4,
+      7,
+      5,
+      6
+    ]
+  },
+  {
+    "job_title": "Zorgtechnoloog",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert gespecialiseerde werkzaamheden uit binnen de medische technologie of zorg.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [
+      5,
+      6,
+      4,
+      4,
+      7,
+      6,
+      5
+    ]
+  },
+  {
+    "job_title": "Medisch projectleider",
+    "domain": "Mens & Gezondheid",
+    "description": "Stuurt zorgtechnologische projecten aan binnen instellingen of R&D.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – hogere functies met groeiende relevantie.",
+    "themes": [
+      4,
+      5,
+      2,
+      3,
+      8,
+      8,
+      9
+    ]
+  },
+  {
+    "job_title": "Labmanager",
+    "domain": "Mens & Gezondheid",
+    "description": "Stuurt zorgtechnologische projecten aan binnen instellingen of R&D.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – hogere functies met groeiende relevantie.",
+    "themes": [
+      4,
+      5,
+      2,
+      3,
+      8,
+      7,
+      8
+    ]
+  },
+  {
+    "job_title": "Geriatrisch verpleegkundige",
+    "domain": "Mens & Gezondheid",
+    "description": "Biedt zorg aan patiënten met behulp van medische technologie en apparatuur.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – grote vraag naar zorgprofessionals met technologische vaardigheden.",
+    "themes": [
+      4,
+      3,
+      8,
+      4,
+      6,
+      9,
+      6
+    ]
+  },
+  {
+    "job_title": "Specialist zorgtechnologie",
+    "domain": "Mens & Gezondheid",
+    "description": "Werkt aan het ontwikkelen, onderhouden of toepassen van medische technologie.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – technologische zorgfuncties zijn sterk in opkomst.",
+    "themes": [
+      5,
+      6,
+      3,
+      4,
+      8,
+      6,
+      7
+    ]
+  },
+  {
+    "job_title": "Chirurg met robotondersteuning",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert medische operaties uit met ondersteuning van moderne technologie.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – gespecialiseerd werk met hoge instapdrempel.",
+    "themes": [
+      4,
+      4,
+      9,
+      3,
+      8,
+      7,
+      7
+    ]
+  },
+  {
+    "job_title": "Wetenschapper orgaankweek",
+    "domain": "Mens & Gezondheid",
+    "description": "Doet geavanceerd onderzoek naar medische toepassingen of innovaties.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – onderzoek is essentieel, maar posities zijn beperkt.",
+    "themes": [
+      6,
+      5,
+      2,
+      5,
+      10,
+      4,
+      5
+    ]
+  },
+  {
+    "job_title": "Genetisch onderzoeker",
+    "domain": "Mens & Gezondheid",
+    "description": "Doet geavanceerd onderzoek naar medische toepassingen of innovaties.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – onderzoek is essentieel, maar posities zijn beperkt.",
+    "themes": [
+      5,
+      4,
+      2,
+      5,
+      10,
+      4,
+      4
+    ]
+  },
+  {
+    "job_title": "Neurotechnoloog",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert gespecialiseerde werkzaamheden uit binnen de medische technologie of zorg.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [
+      5,
+      5,
+      3,
+      4,
+      9,
+      5,
+      5
+    ]
+  },
+  {
+    "job_title": "Klinisch fysicus",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert gespecialiseerde werkzaamheden uit binnen de medische technologie of zorg.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [
+      4,
+      5,
+      2,
+      3,
+      10,
+      4,
+      5
+    ]
+  },
+  {
+    "job_title": "Kunstmatige orgaanontwerper",
+    "domain": "Mens & Gezondheid",
+    "description": "Ontwerpt of verbetert medische apparaten, systemen of zorgomgevingen.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – innovaties in de zorg vragen om technisch ontwerp.",
+    "themes": [
+      7,
+      10,
+      3,
+      5,
+      8,
+      5,
+      6
+    ]
+  },
+  {
+    "job_title": "Robotica-specialist chirurgie",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert medische operaties uit met ondersteuning van moderne technologie.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – gespecialiseerd werk met hoge instapdrempel.",
+    "themes": [
+      5,
+      5,
+      8,
+      3,
+      9,
+      6,
+      7
+    ]
+  },
+  {
+    "job_title": "Epidemioloog",
+    "domain": "Mens & Gezondheid",
+    "description": "Analyseert ziektepatronen of gezondheidsdata voor beleid en onderzoek.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – belangrijk vakgebied, groeiende belangstelling na COVID-19.",
+    "themes": [
+      4,
+      3,
+      2,
+      7,
+      10,
+      5,
+      7
+    ]
+  },
+  {
+    "job_title": "Klinisch chemicus",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert gespecialiseerde werkzaamheden uit binnen de medische technologie of zorg.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [
+      3,
+      4,
+      2,
+      4,
+      10,
+      4,
+      5
+    ]
+  },
+  {
+    "job_title": "Biomaterialen onderzoeker",
+    "domain": "Mens & Gezondheid",
+    "description": "Doet geavanceerd onderzoek naar medische toepassingen of innovaties.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – onderzoek is essentieel, maar posities zijn beperkt.",
+    "themes": [
+      6,
+      6,
+      2,
+      7,
+      9,
+      4,
+      5
+    ]
+  },
+  {
+    "job_title": "Microbioloog",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert gespecialiseerde werkzaamheden uit binnen de medische technologie of zorg.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [
+      4,
+      4,
+      2,
+      5,
+      9,
+      4,
+      5
+    ]
+  },
+  {
+    "job_title": "Nanochirurg",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert medische operaties uit met ondersteuning van moderne technologie.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – gespecialiseerd werk met hoge instapdrempel.",
+    "themes": [
+      5,
+      5,
+      9,
+      3,
+      9,
+      6,
+      7
+    ]
+  },
+  {
+    "job_title": "Patholoog",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert gespecialiseerde werkzaamheden uit binnen de medische technologie of zorg.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [
+      3,
+      4,
+      2,
+      4,
+      10,
+      4,
+      5
+    ]
+  },
+  {
+    "job_title": "Medisch natuurkundige",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert gespecialiseerde werkzaamheden uit binnen de medische technologie of zorg.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [
+      4,
+      5,
+      2,
+      4,
+      10,
+      4,
+      5
+    ]
+  },
+  {
+    "job_title": "Klinisch geneticus",
+    "domain": "Mens & Gezondheid",
+    "description": "Voert gespecialiseerde werkzaamheden uit binnen de medische technologie of zorg.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en regio.",
+    "themes": [
+      4,
+      5,
+      2,
+      4,
+      10,
+      4,
+      5
+    ]
+  },
+  {
+    "job_title": "Wetenschapper medische AI",
+    "domain": "Mens & Gezondheid",
+    "description": "Doet geavanceerd onderzoek naar medische toepassingen of innovaties.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – onderzoek is essentieel, maar posities zijn beperkt.",
+    "themes": [
+      6,
+      5,
+      2,
+      6,
+      10,
+      4,
+      6
+    ]
+  },
+  {
+    "job_title": "Biomedisch engineer",
+    "domain": "Mens & Gezondheid",
+    "description": "Ontwerpt of verbetert medische apparaten, systemen of zorgomgevingen.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – innovaties in de zorg vragen om technisch ontwerp.",
+    "themes": [
+      7,
+      10,
+      3,
+      5,
+      8,
+      5,
+      6
+    ]
+  },
+  {
+    "job_title": "Installateur zonnepanelen",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Installeert of onderhoudt energie- of watertechnische systemen op locatie.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – veel vraag door energietransitie en woningrenovatie.",
+    "themes": [
+      3,
+      3,
+      9,
+      8,
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "job_title": "Technicus windturbines",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert technisch werk uit met betrekking tot energie, veiligheid of waterbeheer.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – cruciale rol in de overgang naar duurzame infrastructuur.",
+    "themes": [
+      3,
+      3,
+      8,
+      9,
+      7,
+      3,
+      4
+    ]
+  },
+  {
+    "job_title": "Hoogspanningsmonteur",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Installeert of onderhoudt energie- of watertechnische systemen op locatie.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – veel vraag door energietransitie en woningrenovatie.",
+    "themes": [
+      2,
+      2,
+      9,
+      7,
+      6,
+      2,
+      3
+    ]
+  },
+  {
+    "job_title": "Waterzuiveringstechnicus",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert technisch werk uit met betrekking tot energie, veiligheid of waterbeheer.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – cruciale rol in de overgang naar duurzame infrastructuur.",
+    "themes": [
+      3,
+      3,
+      7,
+      10,
+      7,
+      3,
+      4
+    ]
+  },
+  {
+    "job_title": "Hydrograaf",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert specialistisch werk uit binnen energie, watertechnologie of veiligheid.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en technologische ontwikkelingen.",
+    "themes": [
+      4,
+      4,
+      6,
+      8,
+      7,
+      4,
+      5
+    ]
+  },
+  {
+    "job_title": "Stroomnetbeheerder",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Verantwoordelijk voor het beheer en toezicht op technische netwerken of infrastructuur.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – stabiele werkgelegenheid bij overheden en nutsbedrijven.",
+    "themes": [
+      2,
+      3,
+      5,
+      7,
+      8,
+      4,
+      6
+    ]
+  },
+  {
+    "job_title": "Dijkbeheerder",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Verantwoordelijk voor het beheer en toezicht op technische netwerken of infrastructuur.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – stabiele werkgelegenheid bij overheden en nutsbedrijven.",
+    "themes": [
+      2,
+      3,
+      7,
+      8,
+      7,
+      4,
+      5
+    ]
+  },
+  {
+    "job_title": "Waterkwaliteitsbeheerder",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Verantwoordelijk voor het beheer en toezicht op technische netwerken of infrastructuur.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – stabiele werkgelegenheid bij overheden en nutsbedrijven.",
+    "themes": [
+      2,
+      3,
+      6,
+      9,
+      7,
+      4,
+      5
+    ]
+  },
+  {
+    "job_title": "Procesoperator water",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert technisch werk uit met betrekking tot energie, veiligheid of waterbeheer.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – cruciale rol in de overgang naar duurzame infrastructuur.",
+    "themes": [
+      3,
+      3,
+      7,
+      9,
+      7,
+      3,
+      4
+    ]
+  },
+  {
+    "job_title": "Bodemonderzoeker",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert toegepast of fundamenteel onderzoek uit naar duurzame technologieën.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – onderzoek is belangrijk maar posities zijn competitief.",
+    "themes": [
+      4,
+      4,
+      4,
+      9,
+      9,
+      4,
+      5
+    ]
+  },
+  {
+    "job_title": "Duiktechnicus",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert technisch werk uit met betrekking tot energie, veiligheid of waterbeheer.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – cruciale rol in de overgang naar duurzame infrastructuur.",
+    "themes": [
+      3,
+      3,
+      10,
+      8,
+      6,
+      3,
+      3
+    ]
+  },
+  {
+    "job_title": "Scheepstechnicus",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert technisch werk uit met betrekking tot energie, veiligheid of waterbeheer.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – cruciale rol in de overgang naar duurzame infrastructuur.",
+    "themes": [
+      3,
+      4,
+      8,
+      8,
+      7,
+      3,
+      4
+    ]
+  },
+  {
+    "job_title": "Windturbine-onderhoudsmonteur",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Installeert of onderhoudt energie- of watertechnische systemen op locatie.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – veel vraag door energietransitie en woningrenovatie.",
+    "themes": [
+      3,
+      3,
+      9,
+      9,
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "job_title": "Waterschapsbeheerder",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Verantwoordelijk voor het beheer en toezicht op technische netwerken of infrastructuur.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – stabiele werkgelegenheid bij overheden en nutsbedrijven.",
+    "themes": [
+      2,
+      3,
+      5,
+      8,
+      7,
+      4,
+      5
+    ]
+  },
+  {
+    "job_title": "Technisch tekenaar waterwerken",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Maakt technische ontwerpen of planningen voor duurzame infrastructuur.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – vereist ervaring, maar veelgevraagd bij bouw en overheid.",
+    "themes": [
+      6,
+      9,
+      3,
+      8,
+      7,
+      4,
+      5
+    ]
+  },
+  {
+    "job_title": "Installatiemonteur warmtepompen",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Installeert of onderhoudt energie- of watertechnische systemen op locatie.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – veel vraag door energietransitie en woningrenovatie.",
+    "themes": [
+      3,
+      3,
+      9,
+      8,
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "job_title": "Koudetechnicus",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert technisch werk uit met betrekking tot energie, veiligheid of waterbeheer.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – cruciale rol in de overgang naar duurzame infrastructuur.",
+    "themes": [
+      3,
+      3,
+      7,
+      9,
+      7,
+      3,
+      4
+    ]
+  },
+  {
+    "job_title": "Technisch medewerker waterzuivering",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert specialistisch werk uit binnen energie, watertechnologie of veiligheid.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en technologische ontwikkelingen.",
+    "themes": [
+      3,
+      3,
+      6,
+      9,
+      7,
+      3,
+      4
+    ]
+  },
+  {
+    "job_title": "Energieadviseur woningen",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Adviseert over duurzame oplossingen en beleid op gebied van energie of milieu.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – adviesfuncties zijn in trek door overheidsbeleid en regelgeving.",
+    "themes": [
+      5,
+      5,
+      3,
+      9,
+      8,
+      7,
+      9
+    ]
+  },
+  {
+    "job_title": "Milieukundige",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert specialistisch werk uit binnen energie, watertechnologie of veiligheid.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en technologische ontwikkelingen.",
+    "themes": [
+      4,
+      4,
+      3,
+      9,
+      8,
+      5,
+      6
+    ]
+  },
+  {
+    "job_title": "Waterbouwkundig ingenieur",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Ontwerpt, onderzoekt of verbetert systemen voor energie, water of veiligheid.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – grote behoefte aan ingenieurs door klimaatverandering en vernieuwing.",
+    "themes": [
+      5,
+      7,
+      4,
+      9,
+      9,
+      5,
+      6
+    ]
+  },
+  {
+    "job_title": "Duurzaamheidsspecialist",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert specialistisch werk uit binnen energie, watertechnologie of veiligheid.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en technologische ontwikkelingen.",
+    "themes": [
+      4,
+      4,
+      3,
+      10,
+      8,
+      5,
+      7
+    ]
+  },
+  {
+    "job_title": "Energietechnoloog",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert specialistisch werk uit binnen energie, watertechnologie of veiligheid.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en technologische ontwikkelingen.",
+    "themes": [
+      4,
+      5,
+      3,
+      9,
+      9,
+      4,
+      6
+    ]
+  },
+  {
+    "job_title": "Klimaatonderzoeker",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert toegepast of fundamenteel onderzoek uit naar duurzame technologieën.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – onderzoek is belangrijk maar posities zijn competitief.",
+    "themes": [
+      3,
+      5,
+      2,
+      9,
+      9,
+      4,
+      5
+    ]
+  },
+  {
+    "job_title": "Cybersecurity-expert",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Beveiligt kritieke infrastructuren tegen digitale dreigingen.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – toenemende digitalisering maakt dit een groeiveld.",
+    "themes": [
+      3,
+      4,
+      2,
+      5,
+      9,
+      4,
+      5
+    ]
+  },
+  {
+    "job_title": "Milieubiotechnoloog",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert specialistisch werk uit binnen energie, watertechnologie of veiligheid.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en technologische ontwikkelingen.",
+    "themes": [
+      3,
+      5,
+      3,
+      9,
+      8,
+      4,
+      5
+    ]
+  },
+  {
+    "job_title": "Geotechnisch ingenieur",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Ontwerpt, onderzoekt of verbetert systemen voor energie, water of veiligheid.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – grote behoefte aan ingenieurs door klimaatverandering en vernieuwing.",
+    "themes": [
+      4,
+      7,
+      4,
+      8,
+      9,
+      5,
+      6
+    ]
+  },
+  {
+    "job_title": "Offshore-engineer",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Ontwerpt, onderzoekt of verbetert systemen voor energie, water of veiligheid.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – grote behoefte aan ingenieurs door klimaatverandering en vernieuwing.",
+    "themes": [
+      3,
+      6,
+      6,
+      7,
+      8,
+      4,
+      5
+    ]
+  },
+  {
+    "job_title": "Voedingsoperator",
+    "domain": "Voeding & Natuur",
+    "description": "Bedient en bewaakt machines in voedsel- of biotechnologische processen.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – veel vraag in voedselproductie en duurzaamheidstoepassingen.",
+    "themes": [
+      1,
+      2,
+      3,
+      7,
+      6,
+      2,
+      3
+    ]
+  },
+  {
+    "job_title": "Agrarisch technicus",
+    "domain": "Voeding & Natuur",
+    "description": "Voert technisch onderhoud of innovaties uit in agrarische of natuurlijke systemen.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – specialistische technische kennis is schaars in deze sector.",
+    "themes": [
+      1,
+      3,
+      5,
+      8,
+      7,
+      2,
+      4
+    ]
+  },
+  {
+    "job_title": "Landbouwmechanisatiemonteur",
+    "domain": "Voeding & Natuur",
+    "description": "Voert technisch onderhoud of innovaties uit in agrarische of natuurlijke systemen.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – specialistische technische kennis is schaars in deze sector.",
+    "themes": [
+      1,
+      3,
+      5,
+      8,
+      7,
+      2,
+      3
+    ]
+  },
+  {
+    "job_title": "Labmedewerker voeding",
+    "domain": "Voeding & Natuur",
+    "description": "Voert uitvoerende of ondersteunende taken uit in de landbouw- of voedingssector.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – stabiele werkgelegenheid, afhankelijk van seizoen en markt.",
+    "themes": [
+      1,
+      2,
+      3,
+      7,
+      6,
+      3,
+      2
+    ]
+  },
+  {
+    "job_title": "Boomkwekerijtechnicus",
+    "domain": "Voeding & Natuur",
+    "description": "Voert technisch onderhoud of innovaties uit in agrarische of natuurlijke systemen.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – specialistische technische kennis is schaars in deze sector.",
+    "themes": [
+      1,
+      3,
+      5,
+      8,
+      7,
+      2,
+      3
+    ]
+  },
+  {
+    "job_title": "Voedingsmiddelentechnoloog",
+    "domain": "Voeding & Natuur",
+    "description": "Voert gespecialiseerd werk uit binnen voedseltechnologie of natuurlijke systemen.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en specialisatie.",
+    "themes": [
+      2,
+      5,
+      2,
+      8,
+      8,
+      3,
+      4
+    ]
+  },
+  {
+    "job_title": "Kweker plantveredeling",
+    "domain": "Voeding & Natuur",
+    "description": "Voert uitvoerende of ondersteunende taken uit in de landbouw- of voedingssector.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – stabiele werkgelegenheid, afhankelijk van seizoen en markt.",
+    "themes": [
+      2,
+      3,
+      5,
+      8,
+      6,
+      4,
+      3
+    ]
+  },
+  {
+    "job_title": "Voedselveiligheidstechnoloog",
+    "domain": "Voeding & Natuur",
+    "description": "Voert gespecialiseerd werk uit binnen voedseltechnologie of natuurlijke systemen.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en specialisatie.",
+    "themes": [
+      1,
+      4,
+      2,
+      8,
+      8,
+      4,
+      4
+    ]
+  },
+  {
+    "job_title": "Hydroponics-specialist",
+    "domain": "Voeding & Natuur",
+    "description": "Adviseert over duurzame landbouw, voedselveiligheid of innovatie in natuurbeheer.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – duurzaamheid en circulaire landbouw zijn topprioriteiten.",
+    "themes": [
+      3,
+      5,
+      3,
+      10,
+      8,
+      5,
+      7
+    ]
+  },
+  {
+    "job_title": "Ontwikkelaar duurzame verpakkingen",
+    "domain": "Voeding & Natuur",
+    "description": "Ontwerpt en ontwikkelt nieuwe processen, producten of technologieën in voeding of natuur.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – innovatie in voedseltechnologie en landbouw groeit snel.",
+    "themes": [
+      4,
+      8,
+      2,
+      10,
+      8,
+      4,
+      6
+    ]
+  },
+  {
+    "job_title": "Biotechnoloog",
+    "domain": "Voeding & Natuur",
+    "description": "Voert gespecialiseerd werk uit binnen voedseltechnologie of natuurlijke systemen.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en specialisatie.",
+    "themes": [
+      3,
+      6,
+      3,
+      9,
+      9,
+      3,
+      6
+    ]
+  },
+  {
+    "job_title": "Plantwetenschapper",
+    "domain": "Voeding & Natuur",
+    "description": "Voert onderzoek uit naar planten, voedselveiligheid of ecosystemen.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – veel academische waarde, maar beperkte functies.",
+    "themes": [
+      3,
+      5,
+      3,
+      9,
+      9,
+      2,
+      5
+    ]
+  },
+  {
+    "job_title": "Duurzaamheidsanalist voeding",
+    "domain": "Voeding & Natuur",
+    "description": "Voert gespecialiseerd werk uit binnen voedseltechnologie of natuurlijke systemen.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en specialisatie.",
+    "themes": [
+      2,
+      4,
+      2,
+      10,
+      9,
+      3,
+      6
+    ]
+  },
+  {
+    "job_title": "Biochemisch onderzoeker",
+    "domain": "Voeding & Natuur",
+    "description": "Voert onderzoek uit naar planten, voedselveiligheid of ecosystemen.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – veel academische waarde, maar beperkte functies.",
+    "themes": [
+      3,
+      4,
+      2,
+      9,
+      10,
+      2,
+      5
+    ]
+  },
+  {
+    "job_title": "Expert precisielandbouw",
+    "domain": "Voeding & Natuur",
+    "description": "Adviseert over duurzame landbouw, voedselveiligheid of innovatie in natuurbeheer.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – duurzaamheid en circulaire landbouw zijn topprioriteiten.",
+    "themes": [
+      3,
+      5,
+      3,
+      10,
+      8,
+      5,
+      8
+    ]
+  },
+  {
+    "job_title": "Installatiemonteur",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Installeert of onderhoudt technische systemen in gebouwen of infrastructuur.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – grote vraag naar technische vakmensen in bouw en installatie.",
+    "themes": [
+      2,
+      3,
+      8,
+      5,
+      6,
+      4,
+      3
+    ]
+  },
+  {
+    "job_title": "Loodgieter",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Voert gespecialiseerd werk uit binnen bouw, wonen of infrastructuur.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en ervaring.",
+    "themes": [
+      2,
+      2,
+      9,
+      5,
+      5,
+      3,
+      2
+    ]
+  },
+  {
+    "job_title": "Lifttechnicus",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Installeert of onderhoudt technische systemen in gebouwen of infrastructuur.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – grote vraag naar technische vakmensen in bouw en installatie.",
+    "themes": [
+      2,
+      3,
+      7,
+      5,
+      7,
+      3,
+      3
+    ]
+  },
+  {
+    "job_title": "Timmerman",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Voert gespecialiseerd werk uit binnen bouw, wonen of infrastructuur.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en ervaring.",
+    "themes": [
+      4,
+      5,
+      9,
+      4,
+      5,
+      3,
+      2
+    ]
+  },
+  {
+    "job_title": "Spoorwegtechnicus",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Installeert of onderhoudt technische systemen in gebouwen of infrastructuur.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – grote vraag naar technische vakmensen in bouw en installatie.",
+    "themes": [
+      2,
+      3,
+      7,
+      5,
+      7,
+      3,
+      3
+    ]
+  },
+  {
+    "job_title": "Civiel ingenieur",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Ontwerpt of verbetert technische systemen in bouw, installaties of infrastructuur.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – brede toepasbaarheid in groeiende sectoren.",
+    "themes": [
+      5,
+      7,
+      4,
+      7,
+      9,
+      5,
+      6
+    ]
+  },
+  {
+    "job_title": "Werktuigbouwkundig ingenieur",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Ontwerpt of verbetert technische systemen in bouw, installaties of infrastructuur.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – brede toepasbaarheid in groeiende sectoren.",
+    "themes": [
+      3,
+      6,
+      4,
+      5,
+      9,
+      4,
+      5
+    ]
+  },
+  {
+    "job_title": "Funderingstechnicus",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Installeert of onderhoudt technische systemen in gebouwen of infrastructuur.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – grote vraag naar technische vakmensen in bouw en installatie.",
+    "themes": [
+      1,
+      3,
+      7,
+      5,
+      6,
+      4,
+      3
+    ]
+  },
+  {
+    "job_title": "Tekenaar infrastructuur",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Maakt technische ontwerpen of voert controles uit op infrastructuur of gebouwen.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – belangrijk voor bouwkwaliteit, vaak afhankelijk van ervaring.",
+    "themes": [
+      3,
+      7,
+      3,
+      5,
+      7,
+      3,
+      4
+    ]
+  },
+  {
+    "job_title": "Gebouwveiligheidsadviseur",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Adviseert over duurzame, technische of bouwkundige vraagstukken.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – duurzame bouw en innovatie zijn sterk groeiende markten.",
+    "themes": [
+      2,
+      5,
+      3,
+      8,
+      7,
+      6,
+      7
+    ]
+  },
+  {
+    "job_title": "Urban designer",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Voert gespecialiseerd werk uit binnen bouw, wonen of infrastructuur.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en ervaring.",
+    "themes": [
+      7,
+      8,
+      3,
+      7,
+      7,
+      5,
+      6
+    ]
+  },
+  {
+    "job_title": "Energieadviseur gebouwbeheer",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Adviseert over duurzame, technische of bouwkundige vraagstukken.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – duurzame bouw en innovatie zijn sterk groeiende markten.",
+    "themes": [
+      4,
+      5,
+      3,
+      9,
+      8,
+      6,
+      8
+    ]
+  },
+  {
+    "job_title": "Architect",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Ontwerpt gebouwen of infrastructuur met oog voor functionaliteit en duurzaamheid.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – creatief en strategisch vakgebied met toenemende vraag.",
+    "themes": [
+      9,
+      10,
+      2,
+      8,
+      7,
+      6,
+      7
+    ]
+  },
+  {
+    "job_title": "Smart building architect",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Ontwerpt gebouwen of infrastructuur met oog voor functionaliteit en duurzaamheid.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – creatief en strategisch vakgebied met toenemende vraag.",
+    "themes": [
+      8,
+      9,
+      3,
+      8,
+      7,
+      6,
+      7
+    ]
+  },
+  {
+    "job_title": "Waterbouwkundige constructiespecialist",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Adviseert over duurzame, technische of bouwkundige vraagstukken.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – duurzame bouw en innovatie zijn sterk groeiende markten.",
+    "themes": [
+      3,
+      5,
+      4,
+      9,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "job_title": "Proces Operator",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Bedient en bewaakt productieapparatuur in een industriële omgeving.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – automatisering en productie draaien op volle toeren.",
+    "themes": [
+      2,
+      3,
+      7,
+      4,
+      6,
+      3,
+      2
+    ]
+  },
+  {
+    "job_title": "3D-print technicus",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert technisch onderhoud of installatie uit in productie- of logistieke systemen.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – grote behoefte aan technisch geschoold personeel.",
+    "themes": [
+      4,
+      6,
+      5,
+      3,
+      7,
+      3,
+      2
+    ]
+  },
+  {
+    "job_title": "Servicemonteur Industrie",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert technisch onderhoud of installatie uit in productie- of logistieke systemen.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – grote behoefte aan technisch geschoold personeel.",
+    "themes": [
+      2,
+      3,
+      8,
+      3,
+      6,
+      3,
+      2
+    ]
+  },
+  {
+    "job_title": "Robottechnicus",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert technisch onderhoud of installatie uit in productie- of logistieke systemen.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – grote behoefte aan technisch geschoold personeel.",
+    "themes": [
+      4,
+      6,
+      5,
+      4,
+      8,
+      3,
+      3
+    ]
+  },
+  {
+    "job_title": "Magazijnmedewerker",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert ondersteunende werkzaamheden uit in productie, ontwerp of logistiek.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – stabiele vraag met ruimte voor doorgroei.",
+    "themes": [
+      1,
+      2,
+      7,
+      3,
+      4,
+      4,
+      1
+    ]
+  },
+  {
+    "job_title": "Onderhoudsmonteur robotsystemen",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert technisch onderhoud of installatie uit in productie- of logistieke systemen.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – grote behoefte aan technisch geschoold personeel.",
+    "themes": [
+      3,
+      5,
+      6,
+      4,
+      7,
+      3,
+      2
+    ]
+  },
+  {
+    "job_title": "Technisch medewerker productie",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert ondersteunende werkzaamheden uit in productie, ontwerp of logistiek.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – stabiele vraag met ruimte voor doorgroei.",
+    "themes": [
+      2,
+      3,
+      6,
+      3,
+      5,
+      3,
+      1
+    ]
+  },
+  {
+    "job_title": "Logistiek medewerker havens",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert ondersteunende werkzaamheden uit in productie, ontwerp of logistiek.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – stabiele vraag met ruimte voor doorgroei.",
+    "themes": [
+      1,
+      2,
+      7,
+      3,
+      4,
+      4,
+      1
+    ]
+  },
+  {
+    "job_title": "Operator productielijnen",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Bedient en bewaakt productieapparatuur in een industriële omgeving.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – automatisering en productie draaien op volle toeren.",
+    "themes": [
+      2,
+      3,
+      7,
+      4,
+      6,
+      3,
+      2
+    ]
+  },
+  {
+    "job_title": "Monteur transportbanden",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert technisch onderhoud of installatie uit in productie- of logistieke systemen.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – grote behoefte aan technisch geschoold personeel.",
+    "themes": [
+      2,
+      4,
+      7,
+      3,
+      6,
+      3,
+      2
+    ]
+  },
+  {
+    "job_title": "Assistent productontwerper",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert ondersteunende werkzaamheden uit in productie, ontwerp of logistiek.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – stabiele vraag met ruimte voor doorgroei.",
+    "themes": [
+      6,
+      8,
+      3,
+      4,
+      5,
+      4,
+      2
+    ]
+  },
+  {
+    "job_title": "Chauffeur geautomatiseerde voertuigen",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert ondersteunende werkzaamheden uit in productie, ontwerp of logistiek.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – stabiele vraag met ruimte voor doorgroei.",
+    "themes": [
+      1,
+      2,
+      8,
+      3,
+      4,
+      3,
+      1
+    ]
+  },
+  {
+    "job_title": "Technisch tekenaar mechanica",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Maakt technische tekeningen of 3D-modellen voor productie en ontwerp.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – veelgevraagd bij digitalisering van ontwerp.",
+    "themes": [
+      5,
+      9,
+      2,
+      4,
+      7,
+      3,
+      2
+    ]
+  },
+  {
+    "job_title": "Logistiek planner",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Plant en coördineert processen in logistiek of productie.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – belangrijk voor efficiëntie, afhankelijk van ervaring.",
+    "themes": [
+      2,
+      3,
+      3,
+      4,
+      8,
+      5,
+      3
+    ]
+  },
+  {
+    "job_title": "Logisitiek medewerker",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert ondersteunende werkzaamheden uit in productie, ontwerp of logistiek.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – stabiele vraag met ruimte voor doorgroei.",
+    "themes": [
+      1,
+      2,
+      6,
+      3,
+      5,
+      4,
+      1
+    ]
+  },
+  {
+    "job_title": "inkoop medewerker",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert ondersteunende werkzaamheden uit in productie, ontwerp of logistiek.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – stabiele vraag met ruimte voor doorgroei.",
+    "themes": [
+      2,
+      3,
+      3,
+      4,
+      6,
+      5,
+      4
+    ]
+  },
+  {
+    "job_title": "Supply chain planner",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Plant en coördineert processen in logistiek of productie.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – belangrijk voor efficiëntie, afhankelijk van ervaring.",
+    "themes": [
+      3,
+      4,
+      3,
+      5,
+      8,
+      5,
+      5
+    ]
+  },
+  {
+    "job_title": "Industrieel productontwerper",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert specialistisch werk uit binnen productie, logistiek of technisch ontwerp.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van branche en ervaring.",
+    "themes": [
+      8,
+      9,
+      4,
+      6,
+      7,
+      4,
+      3
+    ]
+  },
+  {
+    "job_title": "Adviseur Electrotechniek",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Geeft technisch of strategisch advies aan productie- of logistieke bedrijven.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en netwerk.",
+    "themes": [
+      4,
+      5,
+      3,
+      5,
+      8,
+      6,
+      7
+    ]
+  },
+  {
+    "job_title": "Projectleider Installaties",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Geeft leiding aan technische of logistieke projecten of afdelingen.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – managementvaardigheden zijn gewild in snelgroeiende sectoren.",
+    "themes": [
+      4,
+      5,
+      3,
+      5,
+      7,
+      7,
+      8
+    ]
+  },
+  {
+    "job_title": "Productie Engineer",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Ontwerpt of verbetert producten en processen binnen productie en techniek.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – innovatie in industrie en logistiek blijft doorgroeien.",
+    "themes": [
+      6,
+      7,
+      3,
+      6,
+      9,
+      5,
+      5
+    ]
+  },
+  {
+    "job_title": "BIM modelleur",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Maakt technische tekeningen of 3D-modellen voor productie en ontwerp.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – veelgevraagd bij digitalisering van ontwerp.",
+    "themes": [
+      6,
+      9,
+      2,
+      5,
+      8,
+      4,
+      3
+    ]
+  },
+  {
+    "job_title": "Proces Manager",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Geeft leiding aan technische of logistieke projecten of afdelingen.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – managementvaardigheden zijn gewild in snelgroeiende sectoren.",
+    "themes": [
+      4,
+      5,
+      3,
+      5,
+      7,
+      7,
+      8
+    ]
+  },
+  {
+    "job_title": "Maintance Manager",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Geeft leiding aan technische of logistieke projecten of afdelingen.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – managementvaardigheden zijn gewild in snelgroeiende sectoren.",
+    "themes": [
+      3,
+      4,
+      4,
+      5,
+      7,
+      6,
+      7
+    ]
+  },
+  {
+    "job_title": "Logistiek coördinator",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Plant en coördineert processen in logistiek of productie.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – belangrijk voor efficiëntie, afhankelijk van ervaring.",
+    "themes": [
+      3,
+      4,
+      3,
+      5,
+      8,
+      6,
+      6
+    ]
+  },
+  {
+    "job_title": "Technicus slimme systemen",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert technisch onderhoud of installatie uit in productie- of logistieke systemen.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – grote behoefte aan technisch geschoold personeel.",
+    "themes": [
+      5,
+      6,
+      4,
+      5,
+      8,
+      4,
+      3
+    ]
+  },
+  {
+    "job_title": "Productinnovator",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert specialistisch werk uit binnen productie, logistiek of technisch ontwerp.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van branche en ervaring.",
+    "themes": [
+      8,
+      8,
+      4,
+      6,
+      7,
+      5,
+      4
+    ]
+  },
+  {
+    "job_title": "Manager droneleveringen",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Geeft leiding aan technische of logistieke projecten of afdelingen.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – managementvaardigheden zijn gewild in snelgroeiende sectoren.",
+    "themes": [
+      4,
+      5,
+      6,
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "job_title": "Supply chain manager",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Geeft leiding aan technische of logistieke projecten of afdelingen.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – managementvaardigheden zijn gewild in snelgroeiende sectoren.",
+    "themes": [
+      4,
+      5,
+      4,
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "job_title": "Kwaliteitsmanager productietechnologie",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Geeft leiding aan technische of logistieke projecten of afdelingen.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – managementvaardigheden zijn gewild in snelgroeiende sectoren.",
+    "themes": [
+      3,
+      4,
+      3,
+      5,
+      7,
+      5,
+      7
+    ]
+  },
+  {
+    "job_title": "technisch inkoper",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert specialistisch werk uit binnen productie, logistiek of technisch ontwerp.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van branche en ervaring.",
+    "themes": [
+      3,
+      4,
+      2,
+      5,
+      7,
+      5,
+      6
+    ]
+  },
+  {
+    "job_title": "Manager magazijnautomatisering",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Geeft leiding aan technische of logistieke projecten of afdelingen.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – managementvaardigheden zijn gewild in snelgroeiende sectoren.",
+    "themes": [
+      4,
+      5,
+      4,
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "job_title": "Industrieel planner",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Plant en coördineert processen in logistiek of productie.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – belangrijk voor efficiëntie, afhankelijk van ervaring.",
+    "themes": [
+      3,
+      6,
+      2,
+      4,
+      8,
+      5,
+      6
+    ]
+  },
+  {
+    "job_title": "Research & Development Engineer",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Ontwerpt of verbetert producten en processen binnen productie en techniek.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – innovatie in industrie en logistiek blijft doorgroeien.",
+    "themes": [
+      7,
+      8,
+      3,
+      5,
+      9,
+      4,
+      5
+    ]
+  },
+  {
+    "job_title": "Internationale logistiek specialist",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert specialistisch werk uit binnen productie, logistiek of technisch ontwerp.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van branche en ervaring.",
+    "themes": [
+      4,
+      5,
+      4,
+      3,
+      7,
+      6,
+      6
+    ]
+  },
+  {
+    "job_title": "Technisch Specialist E&I",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert specialistisch werk uit binnen productie, logistiek of technisch ontwerp.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van branche en ervaring.",
+    "themes": [
+      4,
+      6,
+      3,
+      3,
+      8,
+      4,
+      5
+    ]
+  },
+  {
+    "job_title": "Projectmanager Techniek",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Geeft leiding aan technische of logistieke projecten of afdelingen.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – managementvaardigheden zijn gewild in snelgroeiende sectoren.",
+    "themes": [
+      5,
+      6,
+      2,
+      4,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "job_title": "Senior Maintenance Specialist",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert specialistisch werk uit binnen productie, logistiek of technisch ontwerp.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van branche en ervaring.",
+    "themes": [
+      3,
+      5,
+      5,
+      3,
+      7,
+      3,
+      4
+    ]
+  },
+  {
+    "job_title": "Opleidingsmanager Engineering",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Geeft leiding aan technische of logistieke projecten of afdelingen.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – managementvaardigheden zijn gewild in snelgroeiende sectoren.",
+    "themes": [
+      5,
+      6,
+      2,
+      4,
+      7,
+      8,
+      8
+    ]
+  },
+  {
+    "job_title": "Klinisch Technoloog",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert specialistisch werk uit binnen productie, logistiek of technisch ontwerp.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van branche en ervaring.",
+    "themes": [
+      4,
+      6,
+      3,
+      5,
+      8,
+      4,
+      5
+    ]
+  },
+  {
+    "job_title": "Technisch Consultant",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Geeft technisch of strategisch advies aan productie- of logistieke bedrijven.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en netwerk.",
+    "themes": [
+      5,
+      5,
+      2,
+      4,
+      7,
+      7,
+      10
+    ]
+  },
+  {
+    "job_title": "Innovatie Manager",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Geeft leiding aan technische of logistieke projecten of afdelingen.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – managementvaardigheden zijn gewild in snelgroeiende sectoren.",
+    "themes": [
+      7,
+      7,
+      3,
+      6,
+      8,
+      7,
+      9
+    ]
+  },
+  {
+    "job_title": "Logistiek architect (supply chain design)",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert specialistisch werk uit binnen productie, logistiek of technisch ontwerp.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van branche en ervaring.",
+    "themes": [
+      5,
+      8,
+      3,
+      4,
+      8,
+      5,
+      6
+    ]
+  },
+  {
+    "job_title": "Game developer",
+    "domain": "Digitaal, Media & Entertainment",
+    "description": "Ontwikkelt software of games voor diverse digitale toepassingen.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – grote vraag naar ontwikkelaars in alle sectoren.",
+    "themes": [
+      8,
+      7,
+      1,
+      1,
+      9,
+      3,
+      4
+    ]
+  },
+  {
+    "job_title": "Webdesigner",
+    "domain": "Digitaal, Media & Entertainment",
+    "description": "Ontwerpt gebruiksvriendelijke websites of digitale interfaces.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – visueel ontwerp blijft belangrijk, vooral met UX-kennis.",
+    "themes": [
+      9,
+      10,
+      1,
+      1,
+      6,
+      4,
+      3
+    ]
+  },
+  {
+    "job_title": "Software engineer",
+    "domain": "Digitaal, Media & Entertainment",
+    "description": "Ontwikkelt software of games voor diverse digitale toepassingen.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – grote vraag naar ontwikkelaars in alle sectoren.",
+    "themes": [
+      7,
+      6,
+      1,
+      1,
+      9,
+      3,
+      5
+    ]
+  },
+  {
+    "job_title": "Cybersecurity consultant",
+    "domain": "Digitaal, Media & Entertainment",
+    "description": "Adviseert organisaties over data, beveiliging of digitale systemen.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – digitalisering en databeveiliging zijn topprioriteiten.",
+    "themes": [
+      5,
+      4,
+      1,
+      2,
+      10,
+      6,
+      9
+    ]
+  },
+  {
+    "job_title": "Technicus slimme systemen",
+    "domain": "Digitaal, Media & Entertainment",
+    "description": "Werkt aan slimme digitale systemen of apparaten.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – technologische toepassingen breiden zich snel uit.",
+    "themes": [
+      6,
+      5,
+      3,
+      3,
+      8,
+      3,
+      5
+    ]
+  },
+  {
+    "job_title": "Data-analyse consultant",
+    "domain": "Digitaal, Media & Entertainment",
+    "description": "Adviseert organisaties over data, beveiliging of digitale systemen.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – digitalisering en databeveiliging zijn topprioriteiten.",
+    "themes": [
+      4,
+      3,
+      1,
+      2,
+      10,
+      5,
+      10
+    ]
+  },
+  {
+    "job_title": "AI-onderzoeker",
+    "domain": "Digitaal, Media & Entertainment",
+    "description": "Onderzoekt of past kunstmatige intelligentie en datatechnologie toe met oog op ethiek en efficiëntie.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – AI en data zijn snelgroeiende domeinen met veel loopbaanmogelijkheden.",
+    "themes": [
+      6,
+      4,
+      1,
+      3,
+      10,
+      4,
+      7
+    ]
+  },
+  {
+    "job_title": "Data scientist",
+    "domain": "Digitaal, Media & Entertainment",
+    "description": "Onderzoekt of past kunstmatige intelligentie en datatechnologie toe met oog op ethiek en efficiëntie.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – AI en data zijn snelgroeiende domeinen met veel loopbaanmogelijkheden.",
+    "themes": [
+      5,
+      4,
+      1,
+      3,
+      10,
+      3,
+      6
+    ]
+  },
+  {
+    "job_title": "Ethiek en AI specialist",
+    "domain": "Digitaal, Media & Entertainment",
+    "description": "Onderzoekt of past kunstmatige intelligentie en datatechnologie toe met oog op ethiek en efficiëntie.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – AI en data zijn snelgroeiende domeinen met veel loopbaanmogelijkheden.",
+    "themes": [
+      5,
+      3,
+      1,
+      5,
+      9,
+      6,
+      8
+    ]
+  },
+  {
+    "job_title": "Elektromonteur",
+    "domain": "Hi-Tech & Science",
+    "description": "Installeert of onderhoudt geavanceerde elektrotechnische en technologische systemen.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – technische vakmensen zijn onmisbaar in innovatie en industrie.",
+    "themes": [
+      2,
+      3,
+      8,
+      5,
+      7,
+      4,
+      3
+    ]
+  },
+  {
+    "job_title": "Installatiemonteur",
+    "domain": "Hi-Tech & Science",
+    "description": "Installeert of onderhoudt geavanceerde elektrotechnische en technologische systemen.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – technische vakmensen zijn onmisbaar in innovatie en industrie.",
+    "themes": [
+      2,
+      3,
+      8,
+      4,
+      7,
+      4,
+      3
+    ]
+  },
+  {
+    "job_title": "Domotica-specialist",
+    "domain": "Hi-Tech & Science",
+    "description": "Adviseert of ondersteunt op specialistisch niveau in high-tech domeinen.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – niche expertise is zeer gevraagd.",
+    "themes": [
+      3,
+      5,
+      4,
+      5,
+      8,
+      5,
+      6
+    ]
+  },
+  {
+    "job_title": "Laagspanningsmonteur",
+    "domain": "Hi-Tech & Science",
+    "description": "Installeert of onderhoudt geavanceerde elektrotechnische en technologische systemen.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – technische vakmensen zijn onmisbaar in innovatie en industrie.",
+    "themes": [
+      2,
+      3,
+      8,
+      4,
+      7,
+      4,
+      3
+    ]
+  },
+  {
+    "job_title": "Zonnepaneelinstallateur",
+    "domain": "Hi-Tech & Science",
+    "description": "Voert gespecialiseerd werk uit in elektrotechniek, robotica of slimme technologie.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – afhankelijk van ervaring en specialisatie.",
+    "themes": [
+      2,
+      4,
+      7,
+      9,
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "job_title": "Elektrisch monteur industriële installaties",
+    "domain": "Hi-Tech & Science",
+    "description": "Installeert of onderhoudt geavanceerde elektrotechnische en technologische systemen.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – technische vakmensen zijn onmisbaar in innovatie en industrie.",
+    "themes": [
+      2,
+      3,
+      8,
+      4,
+      7,
+      4,
+      3
+    ]
+  },
+  {
+    "job_title": "Medewerker technische dienst",
+    "domain": "Hi-Tech & Science",
+    "description": "Voert gespecialiseerd werk uit in elektrotechniek, robotica of slimme technologie.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – afhankelijk van ervaring en specialisatie.",
+    "themes": [
+      3,
+      4,
+      7,
+      5,
+      7,
+      4,
+      4
+    ]
+  },
+  {
+    "job_title": "Monteur brandmeldinstallaties",
+    "domain": "Hi-Tech & Science",
+    "description": "Installeert of onderhoudt geavanceerde elektrotechnische en technologische systemen.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – technische vakmensen zijn onmisbaar in innovatie en industrie.",
+    "themes": [
+      2,
+      3,
+      8,
+      4,
+      7,
+      3,
+      3
+    ]
+  },
+  {
+    "job_title": "Instrumentmaker",
+    "domain": "Hi-Tech & Science",
+    "description": "Ontwikkelt precisie-instrumenten, componenten of slimme systemen.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – belangrijk vakgebied, afhankelijk van innovatie-investeringen.",
+    "themes": [
+      5,
+      7,
+      4,
+      5,
+      8,
+      3,
+      4
+    ]
+  },
+  {
+    "job_title": "Robotica-ingenieur",
+    "domain": "Hi-Tech & Science",
+    "description": "Ontwerpt of ontwikkelt technologieën binnen elektronica, robotica of energie.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – brede toepasbaarheid en veel vraag in moderne industrie.",
+    "themes": [
+      6,
+      7,
+      3,
+      6,
+      9,
+      4,
+      5
+    ]
+  },
+  {
+    "job_title": "Technisch fysicus",
+    "domain": "Hi-Tech & Science",
+    "description": "Voert gespecialiseerd werk uit in elektrotechniek, robotica of slimme technologie.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van ervaring en specialisatie.",
+    "themes": [
+      5,
+      6,
+      2,
+      5,
+      9,
+      3,
+      4
+    ]
+  },
+  {
+    "job_title": "Technicus slimme systemen",
+    "domain": "Hi-Tech & Science",
+    "description": "Installeert of onderhoudt geavanceerde elektrotechnische en technologische systemen.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – technische vakmensen zijn onmisbaar in innovatie en industrie.",
+    "themes": [
+      4,
+      5,
+      6,
+      5,
+      8,
+      4,
+      4
+    ]
+  },
+  {
+    "job_title": "Sensorontwikkelaar",
+    "domain": "Hi-Tech & Science",
+    "description": "Ontwikkelt precisie-instrumenten, componenten of slimme systemen.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – belangrijk vakgebied, afhankelijk van innovatie-investeringen.",
+    "themes": [
+      5,
+      6,
+      3,
+      6,
+      9,
+      4,
+      4
+    ]
+  },
+  {
+    "job_title": "Elektrotechnisch ingenieur",
+    "domain": "Hi-Tech & Science",
+    "description": "Ontwerpt of ontwikkelt technologieën binnen elektronica, robotica of energie.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – brede toepasbaarheid en veel vraag in moderne industrie.",
+    "themes": [
+      6,
+      7,
+      3,
+      6,
+      9,
+      4,
+      5
+    ]
+  },
+  {
+    "job_title": "Hardware engineer",
+    "domain": "Hi-Tech & Science",
+    "description": "Ontwerpt of ontwikkelt technologieën binnen elektronica, robotica of energie.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – brede toepasbaarheid en veel vraag in moderne industrie.",
+    "themes": [
+      6,
+      7,
+      3,
+      6,
+      9,
+      4,
+      5
+    ]
+  },
+  {
+    "job_title": "Energietechnicus",
+    "domain": "Hi-Tech & Science",
+    "description": "Installeert of onderhoudt geavanceerde elektrotechnische en technologische systemen.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – technische vakmensen zijn onmisbaar in innovatie en industrie.",
+    "themes": [
+      4,
+      5,
+      6,
+      8,
+      7,
+      4,
+      4
+    ]
+  },
+  {
+    "job_title": "Automatiseringsspecialist",
+    "domain": "Hi-Tech & Science",
+    "description": "Adviseert of ondersteunt op specialistisch niveau in high-tech domeinen.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – niche expertise is zeer gevraagd.",
+    "themes": [
+      5,
+      6,
+      4,
+      6,
+      9,
+      5,
+      7
+    ]
+  },
+  {
+    "job_title": "Robotica-engineer",
+    "domain": "Hi-Tech & Science",
+    "description": "Ontwerpt of ontwikkelt technologieën binnen elektronica, robotica of energie.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – brede toepasbaarheid en veel vraag in moderne industrie.",
+    "themes": [
+      6,
+      7,
+      3,
+      6,
+      9,
+      4,
+      5
+    ]
+  },
+  {
+    "job_title": "Netwerkbeheerder",
+    "domain": "Hi-Tech & Science",
+    "description": "Beheert netwerken of stuurt technische projecten aan in de elektrotechniek.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – veel vraag naar ervaren professionals in project- en netwerkbeheer.",
+    "themes": [
+      4,
+      5,
+      2,
+      5,
+      8,
+      6,
+      7
+    ]
+  },
+  {
+    "job_title": "Projectleider elektrotechniek",
+    "domain": "Hi-Tech & Science",
+    "description": "Beheert netwerken of stuurt technische projecten aan in de elektrotechniek.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – veel vraag naar ervaren professionals in project- en netwerkbeheer.",
+    "themes": [
+      4,
+      5,
+      2,
+      5,
+      8,
+      7,
+      9
+    ]
+  },
+  {
+    "job_title": "Verlichtingstechnicus",
+    "domain": "Hi-Tech & Science",
+    "description": "Installeert of onderhoudt geavanceerde elektrotechnische en technologische systemen.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – technische vakmensen zijn onmisbaar in innovatie en industrie.",
+    "themes": [
+      4,
+      6,
+      6,
+      5,
+      7,
+      4,
+      4
+    ]
+  },
+  {
+    "job_title": "Instrumentatietechnicus",
+    "domain": "Hi-Tech & Science",
+    "description": "Installeert of onderhoudt geavanceerde elektrotechnische en technologische systemen.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – technische vakmensen zijn onmisbaar in innovatie en industrie.",
+    "themes": [
+      4,
+      5,
+      6,
+      5,
+      8,
+      4,
+      4
+    ]
+  },
+  {
+    "job_title": "IoT-specialist",
+    "domain": "Hi-Tech & Science",
+    "description": "Adviseert of ondersteunt op specialistisch niveau in high-tech domeinen.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – niche expertise is zeer gevraagd.",
+    "themes": [
+      5,
+      6,
+      4,
+      6,
+      9,
+      5,
+      7
+    ]
+  },
+  {
+    "job_title": "Energieconsultant",
+    "domain": "Hi-Tech & Science",
+    "description": "Adviseert of ondersteunt op specialistisch niveau in high-tech domeinen.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – niche expertise is zeer gevraagd.",
+    "themes": [
+      5,
+      6,
+      3,
+      9,
+      8,
+      7,
+      9
+    ]
+  },
+  {
+    "job_title": "Docent elektrotechniek",
+    "domain": "Hi-Tech & Science",
+    "description": "Doet onderzoek of verzorgt onderwijs op het gebied van elektrotechniek of technologie.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – belangrijk werkveld, maar functies zijn vaak specialistisch.",
+    "themes": [
+      6,
+      6,
+      2,
+      6,
+      9,
+      8,
+      7
+    ]
+  },
+  {
+    "job_title": "Embedded systems engineer",
+    "domain": "Hi-Tech & Science",
+    "description": "Ontwerpt of ontwikkelt technologieën binnen elektronica, robotica of energie.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – brede toepasbaarheid en veel vraag in moderne industrie.",
+    "themes": [
+      6,
+      7,
+      3,
+      6,
+      9,
+      5,
+      6
+    ]
+  },
+  {
+    "job_title": "Smart grid engineer",
+    "domain": "Hi-Tech & Science",
+    "description": "Ontwerpt of ontwikkelt technologieën binnen elektronica, robotica of energie.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – brede toepasbaarheid en veel vraag in moderne industrie.",
+    "themes": [
+      6,
+      7,
+      3,
+      7,
+      9,
+      5,
+      6
+    ]
+  },
+  {
+    "job_title": "Elektronica-ontwerper",
+    "domain": "Hi-Tech & Science",
+    "description": "Ontwikkelt precisie-instrumenten, componenten of slimme systemen.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – belangrijk vakgebied, afhankelijk van innovatie-investeringen.",
+    "themes": [
+      7,
+      8,
+      3,
+      6,
+      9,
+      5,
+      5
+    ]
+  },
+  {
+    "job_title": "Hoogspanningsingenieur",
+    "domain": "Hi-Tech & Science",
+    "description": "Ontwerpt of ontwikkelt technologieën binnen elektronica, robotica of energie.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – brede toepasbaarheid en veel vraag in moderne industrie.",
+    "themes": [
+      6,
+      7,
+      3,
+      6,
+      9,
+      5,
+      6
+    ]
+  },
+  {
+    "job_title": "Telecomspecialist",
+    "domain": "Hi-Tech & Science",
+    "description": "Adviseert of ondersteunt op specialistisch niveau in high-tech domeinen.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – niche expertise is zeer gevraagd.",
+    "themes": [
+      5,
+      6,
+      3,
+      6,
+      8,
+      6,
+      7
+    ]
+  },
+  {
+    "job_title": "Signaalverwerkingsspecialist",
+    "domain": "Hi-Tech & Science",
+    "description": "Adviseert of ondersteunt op specialistisch niveau in high-tech domeinen.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – niche expertise is zeer gevraagd.",
+    "themes": [
+      5,
+      6,
+      3,
+      6,
+      9,
+      6,
+      7
+    ]
+  },
+  {
+    "job_title": "Robotica en AI-onderzoeker",
+    "domain": "Hi-Tech & Science",
+    "description": "Doet onderzoek of verzorgt onderwijs op het gebied van elektrotechniek of technologie.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – belangrijk werkveld, maar functies zijn vaak specialistisch.",
+    "themes": [
+      6,
+      7,
+      3,
+      6,
+      9,
+      5,
+      6
+    ]
+  },
+  {
+    "job_title": "Nanotechnoloog",
+    "domain": "Hi-Tech & Science",
+    "description": "Voert gespecialiseerd werk uit in elektrotechniek, robotica of slimme technologie.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van ervaring en specialisatie.",
+    "themes": [
+      5,
+      6,
+      2,
+      5,
+      9,
+      4,
+      5
+    ]
+  },
+  {
+    "job_title": "Nano-engineer",
+    "domain": "Hi-Tech & Science",
+    "description": "Ontwerpt of ontwikkelt technologieën binnen elektronica, robotica of energie.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – brede toepasbaarheid en veel vraag in moderne industrie.",
+    "themes": [
+      6,
+      7,
+      3,
+      6,
+      9,
+      4,
+      6
+    ]
+  }
+]

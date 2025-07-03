@@ -14,7 +14,7 @@ return new class extends Migration
         Schema::create('professions', function (Blueprint $table) {
             $table->id();
             $table->string('title');
-            $table->string('domain')->unique();
+            $table->string('domain');
             $table->string('description');
             $table->string('education_level');
             $table->string('availability');
