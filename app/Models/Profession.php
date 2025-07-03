@@ -6,5 +6,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class Profession extends Model
 {
-    //
+    public function activities() {
+        return $this->hasMany(Activity::class);
+    }
 }
