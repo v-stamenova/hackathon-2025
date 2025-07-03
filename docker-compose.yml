@@ -14,18 +14,18 @@ services:
         - /usr/src/app/node_modules
       networks:
         - futureu-system
-  backend:
-    container_name: backend
+  api:
+    container_name: api
     build:
-      context: ./backend
+      context: ./backend/api
       dockerfile: Dockerfile
     volumes:
-      - ./backend:/usr/src/app
+      - ./backend/api:/usr/src/app
       - /usr/src/app/node_modules
     networks:
       - futureu-system
     ports:
-      - "5000:5000"
+      - "3012:3012"
 networks:
   futureu-system:
     driver: bridge

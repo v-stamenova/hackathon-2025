@@ -1,14 +1,12 @@
 {
-  "name": "code",
+  "name": "api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "dev": "./node_modules/nodemon/bin/nodemon.js start.js",
-    "dev win": "./node_modules/.bin/nodemon start.js",
-    "test": "NODE_ENV=test node --experimental-vm-modules node_modules/jest/bin/jest.js",
-    "coverage-test": "NODE_ENV=test node --experimental-vm-modules node_modules/jest/bin/jest.js --coverage --reporters=default --reporters=jest-junit | tee ./coverage.txt"
+    "dev win": "./node_modules/.bin/nodemon start.js"
   },
   "author": "",
   "license": "ISC",
