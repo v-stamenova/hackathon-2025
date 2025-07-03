@@ -8,7 +8,18 @@ import { openDatabaseConnection, closeDatabaseConnection } from './database.js';
 export async function getProfessionsData(amount) {
   return new Promise(async (resolve, reject) => {
     const db = await openDatabaseConnection();
-    const sql = `SELECT * FROM professions ORDER BY RANDOM() LIMIT ${amount}`;
+
+    // Calculate the time 5 minutes ago to retrieve only professions
+    // that were not seen after that time.
+    const now = new Date()
+    let fiveMinsAgo = new Date(now);
+    fiveMinsAgo.setMinutes(now.getMinutes() - 5);
+
+    const sql = `SELECT * FROM professions
+      WHERE seen_at < '${fiveMinsAgo}'
+      ORDER BY RANDOM()
+      LIMIT ${amount}`;
+
     db.all(sql, (err, rows) => {
       closeDatabaseConnection(db);
       if (err) {
@@ -31,7 +42,7 @@ export async function getProfessionsData(amount) {
 export async function updateProfessionInstanceScore(score, professionId) {
   return new Promise(async (resolve, reject) => {
     const db = await openDatabaseConnection();
-    const update = `UPDATE professions SET score = score + ${score} WHERE id = ${professionId} AND score + ${score} > 0`;
+    const update = `UPDATE professions SET score = score + ${score}, seen_at = ${new Date()} WHERE id = ${professionId} AND score + ${score} > 0`;
       
     db.run(update, params, (err) => {
       closeDatabaseConnection(db);

@@ -109,7 +109,8 @@ async function createProfessionsTable(db) {
       education_level TEXT NOT NULL,
       availability TEXT NOT NULL,
       themes TEXT NOT NULL,
-      score INTEGER DEFAULT 0 NOT NULL)`,
+      score INTEGER DEFAULT 0 NOT NULL,
+      seen_at TEXT)`,
     (err) => {
       if (err) {
         console.error('Error creating table: ', err.message);
