@@ -31,7 +31,7 @@ const response = {
  */
 export async function getProfessions(req, res, next) {
   try {
-    const amount = req.query.amount;
+    const amount = req.query.amount || 5;
     response.data = await getProfessionsData(amount);
     res.status(200).send(response);
   } catch (err) {
