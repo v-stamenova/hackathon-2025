@@ -21,10 +21,6 @@ class DatabaseSeeder extends Seeder
             'email' => 'test@example.com',
         ]);
 
-<<<<<<< HEAD
         $this->call([ProfessionSeeder::class]);
-=======
-        Profession::factory(20)->create();
->>>>>>> 96a9f2bc2e6268467ddab77b6f45ab0eae8f8535
     }
 }
