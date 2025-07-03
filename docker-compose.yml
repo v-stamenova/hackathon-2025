@@ -26,6 +26,18 @@ services:
       - futureu-system
     ports:
       - "3012:3012"
+  gateway:
+    container_name: gateway
+    build:
+      context: ./backend/gateway
+      dockerfile: Dockerfile
+    volumes:
+      - ./backend/gateway:/usr/src/app
+      - /usr/src/app/node_modules
+    networks:
+      - futureu-system
+    ports:
+      - "3011:3011"
 networks:
   futureu-system:
     driver: bridge
