@@ -1,0 +1,410 @@
+[
+  {
+    "job_title": "Voedingsoperator",
+    "domain": "Voeding & Natuur",
+    "description": "Bedient en bewaakt machines in voedsel- of biotechnologische processen.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – veel vraag in voedselproductie en duurzaamheidstoepassingen.",
+    "themes": [1, 2, 3, 7, 6, 2, 3]
+  },
+  {
+    "job_title": "Agrarisch technicus",
+    "domain": "Voeding & Natuur",
+    "description": "Voert technisch onderhoud of innovaties uit in agrarische of natuurlijke systemen.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – specialistische technische kennis is schaars in deze sector.",
+    "themes": [1, 3, 5, 8, 7, 2, 4]
+  },
+  {
+    "job_title": "Landbouwmechanisatiemonteur",
+    "domain": "Voeding & Natuur",
+    "description": "Voert technisch onderhoud of innovaties uit in agrarische of natuurlijke systemen.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – specialistische technische kennis is schaars in deze sector.",
+    "themes": [1, 3, 5, 8, 7, 2, 3]
+  },
+  {
+    "job_title": "Labmedewerker voeding",
+    "domain": "Voeding & Natuur",
+    "description": "Voert uitvoerende of ondersteunende taken uit in de landbouw- of voedingssector.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – stabiele werkgelegenheid, afhankelijk van seizoen en markt.",
+    "themes": [1, 2, 3, 7, 6, 3, 2]
+  },
+  {
+    "job_title": "Boomkwekerijtechnicus",
+    "domain": "Voeding & Natuur",
+    "description": "Voert technisch onderhoud of innovaties uit in agrarische of natuurlijke systemen.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – specialistische technische kennis is schaars in deze sector.",
+    "themes": [1, 3, 5, 8, 7, 2, 3]
+  },
+  {
+    "job_title": "Medewerker biologische teelt",
+    "domain": "Voeding & Natuur",
+    "description": "Voert uitvoerende of ondersteunende taken uit in de landbouw- of voedingssector.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – stabiele werkgelegenheid, afhankelijk van seizoen en markt.",
+    "themes": [1, 2, 5, 8, 5, 3, 2]
+  },
+  {
+    "job_title": "Voedingsprocesoperator",
+    "domain": "Voeding & Natuur",
+    "description": "Bedient en bewaakt machines in voedsel- of biotechnologische processen.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – veel vraag in voedselproductie en duurzaamheidstoepassingen.",
+    "themes": [1, 2, 3, 7, 6, 2, 3]
+  },
+  {
+    "job_title": "Technicus plantkunde",
+    "domain": "Voeding & Natuur",
+    "description": "Voert technisch onderhoud of innovaties uit in agrarische of natuurlijke systemen.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – specialistische technische kennis is schaars in deze sector.",
+    "themes": [1, 3, 4, 8, 7, 2, 3]
+  },
+  {
+    "job_title": "Medewerker agro-logistiek",
+    "domain": "Voeding & Natuur",
+    "description": "Voert uitvoerende of ondersteunende taken uit in de landbouw- of voedingssector.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – stabiele werkgelegenheid, afhankelijk van seizoen en markt.",
+    "themes": [1, 2, 5, 7, 5, 3, 2]
+  },
+  {
+    "job_title": "Operator biotechnologie",
+    "domain": "Voeding & Natuur",
+    "description": "Bedient en bewaakt machines in voedsel- of biotechnologische processen.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – veel vraag in voedselproductie en duurzaamheidstoepassingen.",
+    "themes": [1, 2, 3, 7, 6, 2, 3]
+  },
+  {
+    "job_title": "Tuinbouwtechnicus",
+    "domain": "Voeding & Natuur",
+    "description": "Voert technisch onderhoud of innovaties uit in agrarische of natuurlijke systemen.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – specialistische technische kennis is schaars in deze sector.",
+    "themes": [1, 3, 5, 8, 7, 2, 3]
+  },
+  {
+    "job_title": "Meststoffenontwikkelaar",
+    "domain": "Voeding & Natuur",
+    "description": "Ontwerpt en ontwikkelt nieuwe processen, producten of technologieën in voeding of natuur.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – innovatie in voedseltechnologie en landbouw groeit snel.",
+    "themes": [3, 7, 2, 8, 8, 3, 5]
+  },
+  {
+    "job_title": "Bijenhouder duurzame bijenkasten",
+    "domain": "Voeding & Natuur",
+    "description": "Voert gespecialiseerd werk uit binnen voedseltechnologie of natuurlijke systemen.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en specialisatie.",
+    "themes": [2, 4, 6, 9, 5, 3, 3]
+  },
+  {
+    "job_title": "Landmeetkundige agrarische sector",
+    "domain": "Voeding & Natuur",
+    "description": "Voert gespecialiseerd werk uit binnen voedseltechnologie of natuurlijke systemen.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en specialisatie.",
+    "themes": [2, 4, 4, 7, 8, 3, 4]
+  },
+  {
+    "job_title": "Voedingsmiddelentechnoloog",
+    "domain": "Voeding & Natuur",
+    "description": "Voert gespecialiseerd werk uit binnen voedseltechnologie of natuurlijke systemen.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en specialisatie.",
+    "themes": [2, 5, 2, 8, 8, 3, 4]
+  },
+  {
+    "job_title": "Kweker plantveredeling",
+    "domain": "Voeding & Natuur",
+    "description": "Voert uitvoerende of ondersteunende taken uit in de landbouw- of voedingssector.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – stabiele werkgelegenheid, afhankelijk van seizoen en markt.",
+    "themes": [2, 3, 5, 8, 6, 4, 3]
+  },
+  {
+    "job_title": "Voedselveiligheidstechnoloog",
+    "domain": "Voeding & Natuur",
+    "description": "Voert gespecialiseerd werk uit binnen voedseltechnologie of natuurlijke systemen.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en specialisatie.",
+    "themes": [1, 4, 2, 8, 8, 4, 4]
+  },
+  {
+    "job_title": "Hydroponics-specialist",
+    "domain": "Voeding & Natuur",
+    "description": "Adviseert over duurzame landbouw, voedselveiligheid of innovatie in natuurbeheer.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – duurzaamheid en circulaire landbouw zijn topprioriteiten.",
+    "themes": [3, 5, 3, 10, 8, 5, 7]
+  },
+  {
+    "job_title": "Ontwikkelaar duurzame verpakkingen",
+    "domain": "Voeding & Natuur",
+    "description": "Ontwerpt en ontwikkelt nieuwe processen, producten of technologieën in voeding of natuur.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – innovatie in voedseltechnologie en landbouw groeit snel.",
+    "themes": [4, 8, 2, 10, 8, 4, 6]
+  },
+  {
+    "job_title": "Agrotechnicus",
+    "domain": "Voeding & Natuur",
+    "description": "Voert technisch onderhoud of innovaties uit in agrarische of natuurlijke systemen.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – specialistische technische kennis is schaars in deze sector.",
+    "themes": [2, 4, 4, 9, 7, 4, 5]
+  },
+  {
+    "job_title": "Voedingsadviseur duurzaamheid",
+    "domain": "Voeding & Natuur",
+    "description": "Adviseert over duurzame landbouw, voedselveiligheid of innovatie in natuurbeheer.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – duurzaamheid en circulaire landbouw zijn topprioriteiten.",
+    "themes": [4, 5, 2, 10, 7, 7, 8]
+  },
+  {
+    "job_title": "Specialist aquacultuur",
+    "domain": "Voeding & Natuur",
+    "description": "Adviseert over duurzame landbouw, voedselveiligheid of innovatie in natuurbeheer.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – duurzaamheid en circulaire landbouw zijn topprioriteiten.",
+    "themes": [3, 4, 3, 9, 7, 5, 7]
+  },
+  {
+    "job_title": "Expert circulaire landbouw",
+    "domain": "Voeding & Natuur",
+    "description": "Adviseert over duurzame landbouw, voedselveiligheid of innovatie in natuurbeheer.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – duurzaamheid en circulaire landbouw zijn topprioriteiten.",
+    "themes": [3, 5, 2, 10, 8, 6, 8]
+  },
+  {
+    "job_title": "Ontwikkelaar alternatieve eiwitten",
+    "domain": "Voeding & Natuur",
+    "description": "Ontwerpt en ontwikkelt nieuwe processen, producten of technologieën in voeding of natuur.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – innovatie in voedseltechnologie en landbouw groeit snel.",
+    "themes": [4, 7, 2, 9, 8, 4, 6]
+  },
+  {
+    "job_title": "Duurzame materialen onderzoeker",
+    "domain": "Voeding & Natuur",
+    "description": "Voert onderzoek uit naar planten, voedselveiligheid of ecosystemen.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – veel academische waarde, maar beperkte functies.",
+    "themes": [2, 4, 2, 9, 9, 3, 4]
+  },
+  {
+    "job_title": "Ontwikkelaar plantengebaseerde producten",
+    "domain": "Voeding & Natuur",
+    "description": "Ontwerpt en ontwikkelt nieuwe processen, producten of technologieën in voeding of natuur.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – innovatie in voedseltechnologie en landbouw groeit snel.",
+    "themes": [3, 7, 3, 9, 8, 4, 6]
+  },
+  {
+    "job_title": "Agrarisch robotica-expert",
+    "domain": "Voeding & Natuur",
+    "description": "Adviseert over duurzame landbouw, voedselveiligheid of innovatie in natuurbeheer.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – duurzaamheid en circulaire landbouw zijn topprioriteiten.",
+    "themes": [3, 5, 3, 9, 9, 4, 7]
+  },
+  {
+    "job_title": "Bio-ingenieur",
+    "domain": "Voeding & Natuur",
+    "description": "Ontwerpt en ontwikkelt nieuwe processen, producten of technologieën in voeding of natuur.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – innovatie in voedseltechnologie en landbouw groeit snel.",
+    "themes": [3, 7, 2, 9, 9, 3, 6]
+  },
+ { 
+    "job_title": "Procesingenieur voedingstechnologie",
+    "domain": "Voeding & Natuur",
+    "description": "Ontwerpt en ontwikkelt nieuwe processen, producten of technologieën in voeding of natuur.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – innovatie in voedseltechnologie en landbouw groeit snel.",
+    "themes": [3, 7, 2, 9, 9, 3, 6]
+  },
+  {
+    "job_title": "Technisch medewerker bosbeheer", 
+    "domain": "Voeding & Natuur",
+    "description": "Voert uitvoerende of ondersteunende taken uit in de landbouw- of voedingssector.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – stabiele werkgelegenheid, afhankelijk van seizoen en markt.",
+    "themes": [2, 4, 7, 8, 5, 3, 4]
+  },
+  {
+    "job_title": "Adviseur landbouwinnovaties",
+    "domain": "Voeding & Natuur",
+    "description": "Adviseert over duurzame landbouw, voedselveiligheid of innovatie in natuurbeheer.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – duurzaamheid en circulaire landbouw zijn topprioriteiten.",
+    "themes": [4, 5, 3, 10, 7, 6, 9]
+  },
+  {
+    "job_title": "Dierentechnoloog",
+    "domain": "Voeding & Natuur",
+    "description": "Voert gespecialiseerd werk uit binnen voedseltechnologie of natuurlijke systemen.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en specialisatie.",
+    "themes": [3, 5, 4, 8, 8, 3, 5]
+  },
+  {
+    "job_title": "Technisch projectleider agro-industrie",
+    "domain": "Voeding & Natuur",
+    "description": "Voert gespecialiseerd werk uit binnen voedseltechnologie of natuurlijke systemen.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en specialisatie.",
+    "themes": [3, 6, 3, 8, 8, 4, 8]
+  },
+  {
+    "job_title": "Milieubioloog",
+    "domain": "Voeding & Natuur",
+    "description": "Onderzoekt biologische of chemische processen voor toepassingen in voeding of landbouw.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – belangrijk vakgebied, maar afhankelijk van onderzoeksinstellingen.",
+    "themes": [2, 5, 3, 10, 9, 3, 5]
+  },
+  {
+    "job_title": "Voedselketenanalist",
+    "domain": "Voeding & Natuur",
+    "description": "Voert gespecialiseerd werk uit binnen voedseltechnologie of natuurlijke systemen.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en specialisatie.",
+    "themes": [2, 4, 3, 8, 9, 3, 5]
+  },
+  {
+    "job_title": "Biotechnoloog",
+    "domain": "Voeding & Natuur",
+    "description": "Voert gespecialiseerd werk uit binnen voedseltechnologie of natuurlijke systemen.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en specialisatie.",
+    "themes": [3, 6, 3, 9, 9, 3, 6]
+  },
+  {
+    "job_title": "Plantwetenschapper",
+    "domain": "Voeding & Natuur",
+    "description": "Voert onderzoek uit naar planten, voedselveiligheid of ecosystemen.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – veel academische waarde, maar beperkte functies.",
+    "themes": [3, 5, 3, 9, 9, 2, 5]
+  },
+  {
+    "job_title": "Duurzaamheidsanalist voeding",
+    "domain": "Voeding & Natuur",
+    "description": "Voert gespecialiseerd werk uit binnen voedseltechnologie of natuurlijke systemen.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en specialisatie.",
+    "themes": [2, 4, 2, 10, 9, 3, 6]
+  },
+  {
+    "job_title": "Biochemisch onderzoeker",
+    "domain": "Voeding & Natuur",
+    "description": "Voert onderzoek uit naar planten, voedselveiligheid of ecosystemen.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – veel academische waarde, maar beperkte functies.",
+    "themes": [3, 4, 2, 9, 10, 2, 5]
+  },
+  {
+    "job_title": "Expert precisielandbouw",
+    "domain": "Voeding & Natuur",
+    "description": "Adviseert over duurzame landbouw, voedselveiligheid of innovatie in natuurbeheer.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – duurzaamheid en circulaire landbouw zijn topprioriteiten.",
+    "themes": [3, 5, 3, 10, 8, 5, 8]
+  },
+  {
+    "job_title": "Onderzoeker voedselveiligheid",
+    "domain": "Voeding & Natuur",
+    "description": "Voert onderzoek uit naar planten, voedselveiligheid of ecosystemen.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – veel academische waarde, maar beperkte functies.",
+    "themes": [3, 4, 2, 9, 10, 2, 5]
+  },
+  {
+    "job_title": "Microbioloog voedingsmiddelen",
+    "domain": "Voeding & Natuur",
+    "description": "Onderzoekt biologische of chemische processen voor toepassingen in voeding of landbouw.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – belangrijk vakgebied, maar afhankelijk van onderzoeksinstellingen.",
+    "themes": [2, 4, 2, 9, 10, 3, 5]
+  },
+  {
+    "job_title": "Bodemkundige",
+    "domain": "Voeding & Natuur",
+    "description": "Voert gespecialiseerd werk uit binnen voedseltechnologie of natuurlijke systemen.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en specialisatie.",
+    "themes": [2, 4, 3, 9, 9, 2, 5]
+  },
+  {
+    "job_title": "Specialist biobased producten",
+    "domain": "Voeding & Natuur",
+    "description": "Adviseert over duurzame landbouw, voedselveiligheid of innovatie in natuurbeheer.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – duurzaamheid en circulaire landbouw zijn topprioriteiten.",
+    "themes": [3, 5, 3, 10, 7, 5, 8]
+  },
+  {
+    "job_title": "Stoffenonderzoeker landbouw",
+    "domain": "Voeding & Natuur",
+    "description": "Voert onderzoek uit naar planten, voedselveiligheid of ecosystemen.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – veel academische waarde, maar beperkte functies.",
+    "themes": [2, 4, 2, 9, 10, 2, 5]
+  },
+  {
+    "job_title": "Genetisch planttechnoloog",
+    "domain": "Voeding & Natuur",
+    "description": "Voert gespecialiseerd werk uit binnen voedseltechnologie of natuurlijke systemen.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en specialisatie.",
+    "themes": [3, 5, 2, 9, 9, 3, 6]
+  },
+  {
+    "job_title": "Onderzoeker klimaatbestendige gewassen",
+    "domain": "Voeding & Natuur",
+    "description": "Voert onderzoek uit naar planten, voedselveiligheid of ecosystemen.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – veel academische waarde, maar beperkte functies.",
+    "themes": [3, 5, 3, 10, 9, 3, 6]
+  },
+  {
+    "job_title": "Agro-ecologisch adviseur",
+    "domain": "Voeding & Natuur",
+    "description": "Adviseert over duurzame landbouw, voedselveiligheid of innovatie in natuurbeheer.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – duurzaamheid en circulaire landbouw zijn topprioriteiten.",
+    "themes": [3, 5, 3, 10, 7, 6, 9]
+  },
+  {
+    "job_title": "Expert klimaatadaptieve landbouw",
+    "domain": "Voeding & Natuur",
+    "description": "Adviseert over duurzame landbouw, voedselveiligheid of innovatie in natuurbeheer.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – duurzaamheid en circulaire landbouw zijn topprioriteiten.",
+    "themes": [3, 5, 3, 10, 7, 6, 9]
+  },
+  {
+    "job_title": "Onderzoeker ecosystemen",
+    "domain": "Voeding & Natuur",
+    "description": "Voert onderzoek uit naar planten, voedselveiligheid of ecosystemen.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – veel academische waarde, maar beperkte functies.",
+    "themes": [3, 5, 3, 10, 9, 2, 5]
+  },
+  {
+    "job_title": "Biotechnoloog plantkunde",
+    "domain": "Voeding & Natuur",
+    "description": "Voert gespecialiseerd werk uit binnen voedseltechnologie of natuurlijke systemen.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en specialisatie.",
+    "themes": [3, 6, 3, 9, 9, 3, 6]
+  }
+]

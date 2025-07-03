@@ -1,0 +1,442 @@
+[
+  {
+    "job_title": "Installatiemonteur",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Installeert of onderhoudt technische systemen in gebouwen of infrastructuur.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – grote vraag naar technische vakmensen in bouw en installatie.",
+    "themes": [2, 3, 8, 5, 6, 4, 3]
+  },
+  {
+    "job_title": "Elektricien",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Voert gespecialiseerd werk uit binnen bouw, wonen of infrastructuur.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en ervaring.",
+    "themes": [2, 3, 7, 4, 6, 3, 2]
+  },
+  {
+    "job_title": "Warmtepompmonteur",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Installeert of onderhoudt technische systemen in gebouwen of infrastructuur.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – grote vraag naar technische vakmensen in bouw en installatie.",
+    "themes": [2, 3, 8, 8, 6, 4, 3]
+  },
+  {
+    "job_title": "Dakdekker zonnepanelen",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Voert gespecialiseerd werk uit binnen bouw, wonen of infrastructuur.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en ervaring.",
+    "themes": [2, 2, 9, 8, 5, 3, 2]
+  },
+  {
+    "job_title": "Loodgieter",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Voert gespecialiseerd werk uit binnen bouw, wonen of infrastructuur.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en ervaring.",
+    "themes": [2, 2, 9, 5, 5, 3, 2]
+  },
+  {
+    "job_title": "Tekenaar/ontwerper elektrotechniek",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Maakt technische ontwerpen of voert controles uit op infrastructuur of gebouwen.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – belangrijk voor bouwkwaliteit, vaak afhankelijk van ervaring.",
+    "themes": [6, 9, 3, 5, 8, 3, 3]
+  },
+  {
+    "job_title": "Prefab monteur bouw",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Installeert of onderhoudt technische systemen in gebouwen of infrastructuur.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – grote vraag naar technische vakmensen in bouw en installatie.",
+    "themes": [2, 3, 8, 5, 6, 4, 3]
+  },
+  {
+    "job_title": "Gebouwbeheerder domotica",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Beheert of ondersteunt technische processen binnen bouw of gebouwbeheer.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – stabiele functies met technologische groei.",
+    "themes": [3, 4, 5, 6, 7, 5, 4]
+  },
+  {
+    "job_title": "Technisch Medewerker Binnendienst",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Beheert of ondersteunt technische processen binnen bouw of gebouwbeheer.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – stabiele functies met technologische groei.",
+    "themes": [2, 3, 3, 5, 7, 4, 3]
+  },
+  {
+    "job_title": "Lifttechnicus",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Installeert of onderhoudt technische systemen in gebouwen of infrastructuur.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – grote vraag naar technische vakmensen in bouw en installatie.",
+    "themes": [2, 3, 7, 5, 7, 3, 3]
+  },
+  {
+    "job_title": "Timmerman",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Voert gespecialiseerd werk uit binnen bouw, wonen of infrastructuur.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en ervaring.",
+    "themes": [4, 5, 9, 4, 5, 3, 2]
+  },
+  {
+    "job_title": "Onderhoudsmonteur gebouwinstallaties",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Installeert of onderhoudt technische systemen in gebouwen of infrastructuur.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – grote vraag naar technische vakmensen in bouw en installatie.",
+    "themes": [2, 3, 8, 6, 6, 3, 3]
+  },
+  {
+    "job_title": "Werkvoorbereider bouw",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Voert gespecialiseerd werk uit binnen bouw, wonen of infrastructuur.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en ervaring.",
+    "themes": [3, 5, 3, 6, 7, 4, 5]
+  },
+  {
+    "job_title": "Spoorwegtechnicus",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Installeert of onderhoudt technische systemen in gebouwen of infrastructuur.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – grote vraag naar technische vakmensen in bouw en installatie.",
+    "themes": [2, 3, 7, 5, 7, 3, 3]
+  },
+  {
+    "job_title": "Elektromonteur infrastructuur",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Installeert of onderhoudt technische systemen in gebouwen of infrastructuur.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – grote vraag naar technische vakmensen in bouw en installatie.",
+    "themes": [2, 3, 7, 5, 7, 3, 3]
+  },
+  {
+    "job_title": "Straatverlichtingstechnicus",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Installeert of onderhoudt technische systemen in gebouwen of infrastructuur.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – grote vraag naar technische vakmensen in bouw en installatie.",
+    "themes": [2, 3, 7, 6, 7, 3, 3]
+  },
+  {
+    "job_title": "Slooptechnicus",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Installeert of onderhoudt technische systemen in gebouwen of infrastructuur.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – grote vraag naar technische vakmensen in bouw en installatie.",
+    "themes": [1, 2, 9, 3, 6, 3, 2]
+  },
+  {
+    "job_title": "Toezichthouder bouwprojecten",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Voert gespecialiseerd werk uit binnen bouw, wonen of infrastructuur.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en ervaring.",
+    "themes": [3, 4, 5, 5, 7, 5, 5]
+  },
+  {
+    "job_title": "Bouwtechnisch medewerker",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Beheert of ondersteunt technische processen binnen bouw of gebouwbeheer.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – stabiele functies met technologische groei.",
+    "themes": [3, 4, 4, 6, 7, 5, 4]
+  },
+  {
+    "job_title": "Technicus slimme infrastructuur",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Installeert of onderhoudt technische systemen in gebouwen of infrastructuur.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – grote vraag naar technische vakmensen in bouw en installatie.",
+    "themes": [3, 4, 6, 7, 8, 4, 4]
+  },
+  {
+    "job_title": "Civiel ingenieur",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Ontwerpt of verbetert technische systemen in bouw, installaties of infrastructuur.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – brede toepasbaarheid in groeiende sectoren.",
+    "themes": [5, 7, 4, 7, 9, 5, 6]
+  },
+  {
+    "job_title": "BIM-specialist",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Adviseert over duurzame, technische of bouwkundige vraagstukken.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – duurzame bouw en innovatie zijn sterk groeiende markten.",
+    "themes": [6, 9, 3, 8, 9, 6, 7]
+  },
+  {
+    "job_title": "Klimaatbeheersingsspecialist",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Adviseert over duurzame, technische of bouwkundige vraagstukken.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – duurzame bouw en innovatie zijn sterk groeiende markten.",
+    "themes": [5, 6, 3, 9, 8, 6, 7]
+  },
+  {
+    "job_title": "Projectleider bouw",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Stuurt technische bouwprojecten aan en bewaakt voortgang en kwaliteit.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – ervaren projectleiders zijn zeer gevraagd in bouw en infra.",
+    "themes": [4, 5, 4, 7, 8, 7, 9]
+  },
+  { 
+    "job_title": "Renovatiespecialist",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Adviseert over duurzame, technische of bouwkundige vraagstukken.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – duurzame bouw en innovatie zijn sterk groeiende markten.",
+    "themes": [3, 5, 6, 8, 7, 5, 6]
+  },
+  {
+    "job_title": "Bouwkundig ingenieur",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Ontwerpt of verbetert technische systemen in bouw, installaties of infrastructuur.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – brede toepasbaarheid in groeiende sectoren.",
+    "themes": [4, 7, 4, 6, 9, 4, 5]
+  },
+  {
+    "job_title": "Werktuigbouwkundig ingenieur",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Ontwerpt of verbetert technische systemen in bouw, installaties of infrastructuur.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – brede toepasbaarheid in groeiende sectoren.",
+    "themes": [3, 6, 4, 5, 9, 4, 5]
+  },
+  {
+    "job_title": "Technisch manager bouw",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Stuurt technische bouwprojecten aan en bewaakt voortgang en kwaliteit.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – ervaren projectleiders zijn zeer gevraagd in bouw en infra.",
+    "themes": [2, 4, 3, 7, 8, 7, 9]
+  },
+  {
+    "job_title": "Constructeur gebouwen",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Voert gespecialiseerd werk uit binnen bouw, wonen of infrastructuur.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en ervaring.",
+    "themes": [2, 5, 5, 6, 7, 4, 5]
+  },
+  {
+    "job_title": "Installatietechnoloog",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Installeert of onderhoudt technische systemen in gebouwen of infrastructuur.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – grote vraag naar technische vakmensen in bouw en installatie.",
+    "themes": [2, 4, 7, 6, 7, 3, 4]
+  },
+  {
+    "job_title": "Facility engineer",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Ontwerpt of verbetert technische systemen in bouw, installaties of infrastructuur.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – brede toepasbaarheid in groeiende sectoren.",
+    "themes": [3, 6, 4, 6, 8, 4, 5]
+  },
+  {
+    "job_title": "Duurzaam bouwadviseur",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Adviseert over duurzame, technische of bouwkundige vraagstukken.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – duurzame bouw en innovatie zijn sterk groeiende markten.",
+    "themes": [3, 5, 3, 9, 7, 6, 8]
+  },
+  {
+    "job_title": "Verkeersregeltechnicus",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Installeert of onderhoudt technische systemen in gebouwen of infrastructuur.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – grote vraag naar technische vakmensen in bouw en installatie.",
+    "themes": [1, 3, 7, 5, 6, 4, 3]
+  },
+  {
+    "job_title": "Funderingstechnicus",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Installeert of onderhoudt technische systemen in gebouwen of infrastructuur.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – grote vraag naar technische vakmensen in bouw en installatie.",
+    "themes": [1, 3, 7, 5, 6, 4, 3]
+  },
+  {
+    "job_title": "Tekenaar infrastructuur",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Maakt technische ontwerpen of voert controles uit op infrastructuur of gebouwen.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – belangrijk voor bouwkwaliteit, vaak afhankelijk van ervaring.",
+    "themes": [3, 7, 3, 5, 7, 3, 4]
+  },
+  {
+    "job_title": "Constructie-inspecteur",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Maakt technische ontwerpen of voert controles uit op infrastructuur of gebouwen.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – belangrijk voor bouwkwaliteit, vaak afhankelijk van ervaring.",
+    "themes": [2, 6, 3, 5, 8, 3, 4]
+  },
+  {
+    "job_title": "Projectontwikkelaar infrastructuur",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Voert gespecialiseerd werk uit binnen bouw, wonen of infrastructuur.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en ervaring.",
+    "themes": [3, 6, 4, 6, 7, 5, 7]
+  },
+  {
+    "job_title": "Gebouwveiligheidsadviseur",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Adviseert over duurzame, technische of bouwkundige vraagstukken.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – duurzame bouw en innovatie zijn sterk groeiende markten.",
+    "themes": [2, 5, 3, 8, 7, 6, 7]
+  },
+  {
+    "job_title": "Beheerder smart grids",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Beheert of ondersteunt technische processen binnen bouw of gebouwbeheer.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – stabiele functies met technologische groei.",
+    "themes": [2, 4, 3, 7, 8, 4, 5]
+  },
+  {
+    "job_title": "Specialist woningrenovaties",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Adviseert over duurzame, technische of bouwkundige vraagstukken.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – duurzame bouw en innovatie zijn sterk groeiende markten.",
+    "themes": [3, 5, 4, 8, 7, 5, 6]
+  },
+  {
+    "job_title": "Adviseur duurzame materialen",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Adviseert over duurzame, technische of bouwkundige vraagstukken.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – duurzame bouw en innovatie zijn sterk groeiende markten.",
+    "themes": [3, 4, 3, 9, 7, 6, 8]
+  },
+  {
+    "job_title": "Duurzaamheidsadviseur bouw",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Adviseert over duurzame, technische of bouwkundige vraagstukken.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – duurzame bouw en innovatie zijn sterk groeiende markten.",
+    "themes": [3, 5, 3, 9, 7, 6, 8]
+  },
+  {
+    "job_title": "Infra-ontwerper",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Ontwerpt gebouwen of infrastructuur met oog voor functionaliteit en duurzaamheid.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – creatief en strategisch vakgebied met toenemende vraag.",
+    "themes": [7, 9, 3, 8, 7, 5, 7]
+  },
+  {
+    "job_title": "Urban designer",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Voert gespecialiseerd werk uit binnen bouw, wonen of infrastructuur.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en ervaring.",
+    "themes": [7, 8, 3, 7, 7, 5, 6]
+  },
+  {
+    "job_title": "Energieadviseur gebouwbeheer",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Adviseert over duurzame, technische of bouwkundige vraagstukken.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – duurzame bouw en innovatie zijn sterk groeiende markten.",
+    "themes": [4, 5, 3, 9, 8, 6, 8]
+  },
+  {
+    "job_title": "Architect",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Ontwerpt gebouwen of infrastructuur met oog voor functionaliteit en duurzaamheid.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – creatief en strategisch vakgebied met toenemende vraag.",
+    "themes": [9, 10, 2, 8, 7, 6, 7]
+  },
+  {
+    "job_title": "Stedelijk planoloog",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Plant en ontwikkelt stedelijke gebieden met oog op leefbaarheid en duurzaamheid.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – belangrijk bij woningbouwopgaven, afhankelijk van overheidsbeleid.",
+    "themes": [7, 8, 2, 8, 7, 7, 8]
+  },
+  {
+    "job_title": "Stadsontwikkelaar",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Plant en ontwikkelt stedelijke gebieden met oog op leefbaarheid en duurzaamheid.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – belangrijk bij woningbouwopgaven, afhankelijk van overheidsbeleid.",
+    "themes": [6, 7, 3, 7, 7, 7, 9]
+  },
+  {
+    "job_title": "Smart building architect",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Ontwerpt gebouwen of infrastructuur met oog voor functionaliteit en duurzaamheid.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – creatief en strategisch vakgebied met toenemende vraag.",
+    "themes": [8, 9, 3, 8, 7, 6, 7]
+  },
+  {
+    "job_title": "Hogesnelheidstrein-ontwerper",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Ontwerpt gebouwen of infrastructuur met oog voor functionaliteit en duurzaamheid.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – creatief en strategisch vakgebied met toenemende vraag.",
+    "themes": [7, 9, 3, 7, 7, 5, 6]
+  },
+  {
+    "job_title": "Gevelbouwspecialist",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Adviseert over duurzame, technische of bouwkundige vraagstukken.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – duurzame bouw en innovatie zijn sterk groeiende markten.",
+    "themes": [3, 5, 3, 9, 7, 6, 8]
+  },
+  {
+    "job_title": "Innovatief stedenbouwkundige",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Voert gespecialiseerd werk uit binnen bouw, wonen of infrastructuur.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en ervaring.",
+    "themes": [7, 8, 3, 7, 7, 5, 6]
+  },
+  {
+    "job_title": "Waterbouwkundige constructiespecialist",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Adviseert over duurzame, technische of bouwkundige vraagstukken.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – duurzame bouw en innovatie zijn sterk groeiende markten.",
+    "themes": [3, 5, 4, 9, 7, 6, 8]
+  },
+  {
+    "job_title": "Bouwfysicus",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Voert gespecialiseerd werk uit binnen bouw, wonen of infrastructuur.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en ervaring.",
+    "themes": [3, 5, 2, 7, 9, 4, 5]
+  },
+  {
+    "job_title": "Stadsvernieuwing architect",
+    "domain": "Wonen, Werken & Verkeer",
+    "description": "Ontwerpt gebouwen of infrastructuur met oog voor functionaliteit en duurzaamheid.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – creatief en strategisch vakgebied met toenemende vraag.",
+    "themes": [8, 9, 3, 8, 7, 6, 7]
+  }
+]

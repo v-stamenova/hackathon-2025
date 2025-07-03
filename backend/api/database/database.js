@@ -1,4 +1,11 @@
 import sqlite3 from 'sqlite3';
+import json_media from '../json_jobs/finished_digitaal_media_entertainment_jobs.json' with { type: 'json'};
+import json_energie from '../json_jobs/finished_energie_water_veiligheid_jobs.json' with { type: 'json'};
+import json_tech from '../json_jobs/finished_hi_tech_science_jobs.json' with { type: 'json'};
+import json_health from '../json_jobs/finished_mens_en_gezondheid_jobs.json' with { type: 'json'};
+import json_design from '../json_jobs/finished_ontwerp_productie_wereldhandel_jobs.json' with { type: 'json'};
+import json_food from '../json_jobs/finished_voeding_natuur.json' with { type: 'json'};
+import json_traffic from '../json_jobs/finished_wonen_werken_verkeer_jobs.json' with { type: 'json'};
 
 export const DBSOURCE = './database/db.sqlite';
 
@@ -108,7 +115,13 @@ async function createProfessionsTable(db) {
       description TEXT NOT NULL,
       education_level TEXT NOT NULL,
       availability TEXT NOT NULL,
-      themes TEXT NOT NULL,
+      creative TEXT NOT NULL,
+      design_oriented TEXT NOT NULL,
+      physical TEXT NOT NULL,
+      sustainability_focussed TEXT NOT NULL,
+      analytical TEXT NOT NULL,
+      social_interaction TEXT NOT NULL,
+      consulting TEXT NOT NULL,
       score INTEGER DEFAULT 0 NOT NULL,
       seen_at TEXT)`,
     (err) => {
@@ -117,6 +130,44 @@ async function createProfessionsTable(db) {
         reject(err.message);
       } else {
         console.log('Table professions created.');
+        const insertQuery = 'INSERT INTO professions (title, domain, description, education_level, availability, creative, design_oriented, physical, sustainability_focussed, analytical, social_interaction, consulting) VALUES (?,?,?,?,?,?,?,?,?,?,?,?)';
+
+        const allJobs = [
+          ...json_media,
+          ...json_energie,
+          ...json_tech,
+          ...json_health,
+          ...json_design,
+          ...json_food,
+          ...json_traffic
+        ];
+
+        const professions = allJobs.map(job => ({
+          title: job.job_title,
+          domain: job.domain,
+          description: job.description,
+          education_level: job.education_level,
+          availability: job.job_outlook,
+          creative: job.themes[0],
+          design_oriented: job.themes[1],
+          physical: job.themes[2],
+          sustainability_focussed: job.themes[3],
+          analytical: job.themes[4],
+          social_interaction: job.themes[5],
+          consulting: job.themes[6],
+        }));
+
+        professions.forEach(({ title, domain, description, education_level, availability, creative, design_oriented, physical, sustainability_focussed, analytical, social_interaction, consulting }) => {
+          db.run(insertQuery, [title, domain, description, education_level, availability, creative, design_oriented, physical, sustainability_focussed, analytical, social_interaction, consulting], (err) => {
+            if (err) {
+              console.error(`Error inserting data for job ${title}: `, err.message);
+              reject(err.message);
+            } else {
+              console.log(`Data inserted for job: ${title}`);
+            }
+          });
+        });
+        console.log('Data inserted successfully.');
         resolve();
       }
     });

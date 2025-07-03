@@ -1,0 +1,354 @@
+[
+  {
+    "job_title": "Proces Operator",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Bedient en bewaakt productieapparatuur in een industriële omgeving.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – automatisering en productie draaien op volle toeren.",
+    "themes": [2, 3, 7, 4, 6, 3, 2]
+  },
+  {
+    "job_title": "3D-print technicus",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert technisch onderhoud of installatie uit in productie- of logistieke systemen.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – grote behoefte aan technisch geschoold personeel.",
+    "themes": [4, 6, 5, 3, 7, 3, 2]
+  },
+  {
+    "job_title": "Servicemonteur Industrie",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert technisch onderhoud of installatie uit in productie- of logistieke systemen.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – grote behoefte aan technisch geschoold personeel.",
+    "themes": [2, 3, 8, 3, 6, 3, 2]
+  },
+  {
+    "job_title": "Robottechnicus",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert technisch onderhoud of installatie uit in productie- of logistieke systemen.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – grote behoefte aan technisch geschoold personeel.",
+    "themes": [4, 6, 5, 4, 8, 3, 3]
+  },
+  {
+    "job_title": "3D-printtechnicus",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert technisch onderhoud of installatie uit in productie- of logistieke systemen.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – grote behoefte aan technisch geschoold personeel.",
+    "themes": [4, 6, 5, 3, 7, 3, 2]
+  },
+  {
+    "job_title": "Magazijnmedewerker",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert ondersteunende werkzaamheden uit in productie, ontwerp of logistiek.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – stabiele vraag met ruimte voor doorgroei.",
+    "themes": [1, 2, 7, 3, 4, 4, 1]
+  },
+  {
+    "job_title": "Onderhoudsmonteur robotsystemen",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert technisch onderhoud of installatie uit in productie- of logistieke systemen.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – grote behoefte aan technisch geschoold personeel.",
+    "themes": [3, 5, 6, 4, 7, 3, 2]
+  },
+  {
+    "job_title": "Technisch medewerker productie",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert ondersteunende werkzaamheden uit in productie, ontwerp of logistiek.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – stabiele vraag met ruimte voor doorgroei.",
+    "themes": [2, 3, 6, 3, 5, 3, 1]
+  },
+  {
+    "job_title": "Logistiek medewerker havens",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert ondersteunende werkzaamheden uit in productie, ontwerp of logistiek.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – stabiele vraag met ruimte voor doorgroei.",
+    "themes": [1, 2, 7, 3, 4, 4, 1]
+  },
+  {
+    "job_title": "Operator productielijnen",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Bedient en bewaakt productieapparatuur in een industriële omgeving.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – automatisering en productie draaien op volle toeren.",
+    "themes": [2, 3, 7, 4, 6, 3, 2]
+  },
+  {
+    "job_title": "Monteur transportbanden",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert technisch onderhoud of installatie uit in productie- of logistieke systemen.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – grote behoefte aan technisch geschoold personeel.",
+    "themes": [2, 4, 7, 3, 6, 3, 2]
+  },
+  {
+    "job_title": "Assistent productontwerper",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert ondersteunende werkzaamheden uit in productie, ontwerp of logistiek.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – stabiele vraag met ruimte voor doorgroei.",
+    "themes": [6, 8, 3, 4, 5, 4, 2]
+  },
+  {
+    "job_title": "Chauffeur geautomatiseerde voertuigen",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert ondersteunende werkzaamheden uit in productie, ontwerp of logistiek.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – stabiele vraag met ruimte voor doorgroei.",
+    "themes": [1, 2, 8, 3, 4, 3, 1]
+  },
+  {
+    "job_title": "Technisch tekenaar mechanica",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Maakt technische tekeningen of 3D-modellen voor productie en ontwerp.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – veelgevraagd bij digitalisering van ontwerp.",
+    "themes": [5, 9, 2, 4, 7, 3, 2]
+  },
+  {
+    "job_title": "Logistiek planner",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Plant en coördineert processen in logistiek of productie.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – belangrijk voor efficiëntie, afhankelijk van ervaring.",
+    "themes": [2, 3, 3, 4, 8, 5, 3]
+  },
+  {
+    "job_title": "Logisitiek medewerker",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert ondersteunende werkzaamheden uit in productie, ontwerp of logistiek.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – stabiele vraag met ruimte voor doorgroei.",
+    "themes": [1, 2, 6, 3, 5, 4, 1]
+  },
+  {
+    "job_title": "inkoop medewerker",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert ondersteunende werkzaamheden uit in productie, ontwerp of logistiek.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – stabiele vraag met ruimte voor doorgroei.",
+    "themes": [2, 3, 3, 4, 6, 5, 4]
+  },
+  {
+    "job_title": "Supply chain planner",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Plant en coördineert processen in logistiek of productie.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – belangrijk voor efficiëntie, afhankelijk van ervaring.",
+    "themes": [3, 4, 3, 5, 8, 5, 5]
+  },
+  {
+    "job_title": "Industrieel productontwerper",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert specialistisch werk uit binnen productie, logistiek of technisch ontwerp.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van branche en ervaring.",
+    "themes": [8, 9, 4, 6, 7, 4, 3]
+  },
+  {
+    "job_title": "Adviseur Electrotechniek",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Geeft technisch of strategisch advies aan productie- of logistieke bedrijven.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en netwerk.",
+    "themes": [4, 5, 3, 5, 8, 6, 7]
+  },
+  {
+    "job_title": "Projectleider Installaties",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Geeft leiding aan technische of logistieke projecten of afdelingen.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – managementvaardigheden zijn gewild in snelgroeiende sectoren.",
+    "themes": [4, 5, 3, 5, 7, 7, 8]
+  },
+  {
+    "job_title": "Productie Engineer",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Ontwerpt of verbetert producten en processen binnen productie en techniek.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – innovatie in industrie en logistiek blijft doorgroeien.",
+    "themes": [6, 7, 3, 6, 9, 5, 5]
+  },
+  {
+    "job_title": "BIM modelleur",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Maakt technische tekeningen of 3D-modellen voor productie en ontwerp.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – veelgevraagd bij digitalisering van ontwerp.",
+    "themes": [6, 9, 2, 5, 8, 4, 3]
+  },
+  {
+    "job_title": "Proces Manager",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Geeft leiding aan technische of logistieke projecten of afdelingen.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – managementvaardigheden zijn gewild in snelgroeiende sectoren.",
+    "themes": [4, 5, 3, 5, 7, 7, 8]
+  },
+  {
+    "job_title": "Maintance Manager",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Geeft leiding aan technische of logistieke projecten of afdelingen.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – managementvaardigheden zijn gewild in snelgroeiende sectoren.",
+    "themes": [3, 4, 4, 5, 7, 6, 7]
+  },
+  {
+    "job_title": "Logistiek coördinator",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Plant en coördineert processen in logistiek of productie.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – belangrijk voor efficiëntie, afhankelijk van ervaring.",
+    "themes": [3, 4, 3, 5, 8, 6, 6]
+  },
+  {
+    "job_title": "Technicus slimme systemen",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert technisch onderhoud of installatie uit in productie- of logistieke systemen.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – grote behoefte aan technisch geschoold personeel.",
+    "themes": [5, 6, 4, 5, 8, 4, 3]
+  },
+  {
+    "job_title": "Productinnovator",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert specialistisch werk uit binnen productie, logistiek of technisch ontwerp.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van branche en ervaring.",
+    "themes": [8, 8, 4, 6, 7, 5, 4]
+  },
+  {
+    "job_title": "Manager droneleveringen",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Geeft leiding aan technische of logistieke projecten of afdelingen.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – managementvaardigheden zijn gewild in snelgroeiende sectoren.",
+    "themes": [4, 5, 6, 5, 7, 6, 8]
+  },
+  {
+    "job_title": "Supply chain manager",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Geeft leiding aan technische of logistieke projecten of afdelingen.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – managementvaardigheden zijn gewild in snelgroeiende sectoren.",
+    "themes": [4, 5, 4, 5, 7, 6, 8]
+  },
+  {
+    "job_title": "Kwaliteitsmanager productietechnologie",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Geeft leiding aan technische of logistieke projecten of afdelingen.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – managementvaardigheden zijn gewild in snelgroeiende sectoren.",
+    "themes": [3, 4, 3, 5, 7, 5, 7]
+  },
+  {
+    "job_title": "technisch inkoper",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert specialistisch werk uit binnen productie, logistiek of technisch ontwerp.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van branche en ervaring.",
+    "themes": [3, 4, 2, 5, 7, 5, 6]
+  },
+  {
+    "job_title": "Manager magazijnautomatisering",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Geeft leiding aan technische of logistieke projecten of afdelingen.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – managementvaardigheden zijn gewild in snelgroeiende sectoren.",
+    "themes": [4, 5, 4, 5, 7, 6, 8]
+  },
+  {
+    "job_title": "Industrieel planner",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Plant en coördineert processen in logistiek of productie.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – belangrijk voor efficiëntie, afhankelijk van ervaring.",
+    "themes": [3, 6, 2, 4, 8, 5, 6]
+  },
+  {
+    "job_title": "Research & Development Engineer",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Ontwerpt of verbetert producten en processen binnen productie en techniek.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – innovatie in industrie en logistiek blijft doorgroeien.",
+    "themes": [7, 8, 3, 5, 9, 4, 5]
+  },
+  {
+    "job_title": "Internationale logistiek specialist",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert specialistisch werk uit binnen productie, logistiek of technisch ontwerp.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van branche en ervaring.",
+    "themes": [4, 5, 4, 3, 7, 6, 6]
+  },
+  {
+    "job_title": "Technisch Specialist E&I",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert specialistisch werk uit binnen productie, logistiek of technisch ontwerp.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van branche en ervaring.",
+    "themes": [4, 6, 3, 3, 8, 4, 5]
+  },
+  {
+    "job_title": "Projectmanager Techniek",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Geeft leiding aan technische of logistieke projecten of afdelingen.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – managementvaardigheden zijn gewild in snelgroeiende sectoren.",
+    "themes": [5, 6, 2, 4, 7, 8, 9]
+  },
+  {
+    "job_title": "Senior Maintenance Specialist",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert specialistisch werk uit binnen productie, logistiek of technisch ontwerp.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van branche en ervaring.",
+    "themes": [3, 5, 5, 3, 7, 3, 4]
+  },
+  {
+    "job_title": "Opleidingsmanager Engineering",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Geeft leiding aan technische of logistieke projecten of afdelingen.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – managementvaardigheden zijn gewild in snelgroeiende sectoren.",
+    "themes": [5, 6, 2, 4, 7, 8, 8]
+  },
+  {
+    "job_title": "Klinisch Technoloog",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert specialistisch werk uit binnen productie, logistiek of technisch ontwerp.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van branche en ervaring.",
+    "themes": [4, 6, 3, 5, 8, 4, 5]
+  },
+  {
+    "job_title": "Technisch Consultant",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Geeft technisch of strategisch advies aan productie- of logistieke bedrijven.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van specialisatie en netwerk.",
+    "themes": [5, 5, 2, 4, 7, 7, 10]
+  },
+  {
+    "job_title": "Innovatie Manager",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Geeft leiding aan technische of logistieke projecten of afdelingen.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – managementvaardigheden zijn gewild in snelgroeiende sectoren.",
+    "themes": [7, 7, 3, 6, 8, 7, 9]
+  },
+  {
+    "job_title": "Logistiek architect (supply chain design)",
+    "domain": "Ontwerp, Productie & Wereldhandel",
+    "description": "Voert specialistisch werk uit binnen productie, logistiek of technisch ontwerp.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van branche en ervaring.",
+    "themes": [5, 8, 3, 4, 8, 5, 6]
+  }
+]

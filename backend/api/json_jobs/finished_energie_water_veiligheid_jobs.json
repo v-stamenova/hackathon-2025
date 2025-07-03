@@ -1,0 +1,410 @@
+[
+  {
+    "job_title": "Installateur zonnepanelen",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Installeert of onderhoudt energie- of watertechnische systemen op locatie.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – veel vraag door energietransitie en woningrenovatie.",
+    "themes": [3, 3, 9, 8, 6, 3, 4]
+  },
+  {
+    "job_title": "Technicus windturbines",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert technisch werk uit met betrekking tot energie, veiligheid of waterbeheer.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – cruciale rol in de overgang naar duurzame infrastructuur.",
+    "themes": [3, 3, 8, 9, 7, 3, 4]
+  },
+  {
+    "job_title": "Hoogspanningsmonteur",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Installeert of onderhoudt energie- of watertechnische systemen op locatie.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – veel vraag door energietransitie en woningrenovatie.",
+    "themes": [2, 2, 9, 7, 6, 2, 3]
+  },
+  {
+    "job_title": "Waterzuiveringstechnicus",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert technisch werk uit met betrekking tot energie, veiligheid of waterbeheer.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – cruciale rol in de overgang naar duurzame infrastructuur.",
+    "themes": [3, 3, 7, 10, 7, 3, 4]
+  },
+  {
+    "job_title": "Hydrograaf",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert specialistisch werk uit binnen energie, watertechnologie of veiligheid.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en technologische ontwikkelingen.",
+    "themes": [4, 4, 6, 8, 7, 4, 5]
+  },
+  {
+    "job_title": "Stroomnetbeheerder",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Verantwoordelijk voor het beheer en toezicht op technische netwerken of infrastructuur.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – stabiele werkgelegenheid bij overheden en nutsbedrijven.",
+    "themes": [2, 3, 5, 7, 8, 4, 6]
+  },
+  {
+    "job_title": "Dijkbeheerder",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Verantwoordelijk voor het beheer en toezicht op technische netwerken of infrastructuur.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – stabiele werkgelegenheid bij overheden en nutsbedrijven.",
+    "themes": [2, 3, 7, 8, 7, 4, 5]
+  },
+  {
+    "job_title": "Waterkwaliteitsbeheerder",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Verantwoordelijk voor het beheer en toezicht op technische netwerken of infrastructuur.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – stabiele werkgelegenheid bij overheden en nutsbedrijven.",
+    "themes": [2, 3, 6, 9, 7, 4, 5]
+  },
+  {
+    "job_title": "Procesoperator water",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert technisch werk uit met betrekking tot energie, veiligheid of waterbeheer.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – cruciale rol in de overgang naar duurzame infrastructuur.",
+    "themes": [3, 3, 7, 9, 7, 3, 4]
+  },
+  {
+    "job_title": "Bodemonderzoeker",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert toegepast of fundamenteel onderzoek uit naar duurzame technologieën.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – onderzoek is belangrijk maar posities zijn competitief.",
+    "themes": [4, 4, 4, 9, 9, 4, 5]
+  },
+  {
+    "job_title": "Duiktechnicus",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert technisch werk uit met betrekking tot energie, veiligheid of waterbeheer.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – cruciale rol in de overgang naar duurzame infrastructuur.",
+    "themes": [3, 3, 10, 8, 6, 3, 3]
+  },
+  {
+    "job_title": "Scheepstechnicus",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert technisch werk uit met betrekking tot energie, veiligheid of waterbeheer.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – cruciale rol in de overgang naar duurzame infrastructuur.",
+    "themes": [3, 4, 8, 8, 7, 3, 4]
+  },
+  {
+    "job_title": "Windturbine-onderhoudsmonteur",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Installeert of onderhoudt energie- of watertechnische systemen op locatie.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – veel vraag door energietransitie en woningrenovatie.",
+    "themes": [3, 3, 9, 9, 6, 3, 4]
+  },
+  {
+    "job_title": "Waterschapsbeheerder",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Verantwoordelijk voor het beheer en toezicht op technische netwerken of infrastructuur.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – stabiele werkgelegenheid bij overheden en nutsbedrijven.",
+    "themes": [2, 3, 5, 8, 7, 4, 5]
+  },
+  {
+    "job_title": "Technisch tekenaar waterwerken",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Maakt technische ontwerpen of planningen voor duurzame infrastructuur.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – vereist ervaring, maar veelgevraagd bij bouw en overheid.",
+    "themes": [6, 9, 3, 8, 7, 4, 5]
+  },
+  {
+    "job_title": "Installatiemonteur warmtepompen",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Installeert of onderhoudt energie- of watertechnische systemen op locatie.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – veel vraag door energietransitie en woningrenovatie.",
+    "themes": [3, 3, 9, 8, 6, 3, 4]
+  },
+  {
+    "job_title": "Koudetechnicus",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert technisch werk uit met betrekking tot energie, veiligheid of waterbeheer.",
+    "education_level": "MBO",
+    "job_outlook": "Hoog – cruciale rol in de overgang naar duurzame infrastructuur.",
+    "themes": [3, 3, 7, 9, 7, 3, 4]
+  },
+  {
+    "job_title": "Technisch medewerker waterzuivering",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert specialistisch werk uit binnen energie, watertechnologie of veiligheid.",
+    "education_level": "MBO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en technologische ontwikkelingen.",
+    "themes": [3, 3, 6, 9, 7, 3, 4]
+  },
+  {
+    "job_title": "Energieadviseur woningen",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Adviseert over duurzame oplossingen en beleid op gebied van energie of milieu.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – adviesfuncties zijn in trek door overheidsbeleid en regelgeving.",
+    "themes": [5, 5, 3, 9, 8, 7, 9]
+  },
+  {
+    "job_title": "Milieukundige",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert specialistisch werk uit binnen energie, watertechnologie of veiligheid.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en technologische ontwikkelingen.",
+    "themes": [4, 4, 3, 9, 8, 5, 6]
+  },
+  {
+    "job_title": "Waterbouwkundig ingenieur",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Ontwerpt, onderzoekt of verbetert systemen voor energie, water of veiligheid.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – grote behoefte aan ingenieurs door klimaatverandering en vernieuwing.",
+    "themes": [5, 7, 4, 9, 9, 5, 6]
+  },
+  {
+    "job_title": "Duurzaamheidsspecialist",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert specialistisch werk uit binnen energie, watertechnologie of veiligheid.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en technologische ontwikkelingen.",
+    "themes": [4, 4, 3, 10, 8, 5, 7]
+  },
+  {
+    "job_title": "Energietechnoloog",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert specialistisch werk uit binnen energie, watertechnologie of veiligheid.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en technologische ontwikkelingen.",
+    "themes": [4, 5, 3, 9, 9, 4, 6]
+  },
+  {
+    "job_title": "Technisch adviseur energietransitie",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Adviseert over duurzame oplossingen en beleid op gebied van energie of milieu.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – adviesfuncties zijn in trek door overheidsbeleid en regelgeving.",
+    "themes": [5, 5, 3, 10, 8, 7, 9]
+  },
+  {
+    "job_title": "Milieu-inspecteur",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Verantwoordelijk voor het beheer en toezicht op technische netwerken of infrastructuur.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – stabiele werkgelegenheid bij overheden en nutsbedrijven.",
+    "themes": [3, 3, 4, 9, 7, 5, 6]
+  },
+  {
+    "job_title": "Energiedata-analist",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert specialistisch werk uit binnen energie, watertechnologie of veiligheid.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en technologische ontwikkelingen.",
+    "themes": [4, 4, 2, 8, 10, 4, 5]
+  },
+{
+    "job_title": "Projectleider hernieuwbare energie",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert specialistisch werk uit binnen energie, watertechnologie of veiligheid.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en technologische ontwikkelingen.",
+    "themes": [4, 6, 4, 8, 7, 6, 7]
+  },
+  {
+    "job_title": "Adviseur energiebeheer",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Adviseert over duurzame oplossingen en beleid op gebied van energie of milieu.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – adviesfuncties zijn in trek door overheidsbeleid en regelgeving.",
+    "themes": [3, 4, 2, 9, 7, 7, 9]
+  },
+  {
+    "job_title": "Zonnepaneelontwerper",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert specialistisch werk uit binnen energie, watertechnologie of veiligheid.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en technologische ontwikkelingen.",
+    "themes": [5, 9, 3, 8, 7, 5, 5]
+  },
+  {
+    "job_title": "Veiligheidsingenieur infrastructuur",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Ontwerpt, onderzoekt of verbetert systemen voor energie, water of veiligheid.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – grote behoefte aan ingenieurs door klimaatverandering en vernieuwing.",
+    "themes": [4, 8, 4, 7, 8, 5, 6]
+  },
+  {
+    "job_title": "Energie-ingenieur gebouwbeheer",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Ontwerpt, onderzoekt of verbetert systemen voor energie, water of veiligheid.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – grote behoefte aan ingenieurs door klimaatverandering en vernieuwing.",
+    "themes": [4, 7, 3, 8, 8, 5, 6]
+  },
+  {
+    "job_title": "Consultant circulaire economie",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Adviseert over duurzame oplossingen en beleid op gebied van energie of milieu.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – adviesfuncties zijn in trek door overheidsbeleid en regelgeving.",
+    "themes": [3, 4, 2, 10, 7, 7, 10]
+  },
+  {
+    "job_title": "Systeembeheerder waternetwerken",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Verantwoordelijk voor het beheer en toezicht op technische netwerken of infrastructuur.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – stabiele werkgelegenheid bij overheden en nutsbedrijven.",
+    "themes": [2, 5, 3, 7, 7, 4, 5]
+  },
+  {
+    "job_title": "Milieutechnisch ontwerper",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert specialistisch werk uit binnen energie, watertechnologie of veiligheid.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en technologische ontwikkelingen.",
+    "themes": [5, 8, 3, 9, 7, 5, 5]
+  },
+  {
+    "job_title": "Adviseur duurzaam bouwen",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Adviseert over duurzame oplossingen en beleid op gebied van energie of milieu.",
+    "education_level": "HBO",
+    "job_outlook": "Hoog – adviesfuncties zijn in trek door overheidsbeleid en regelgeving.",
+    "themes": [4, 6, 3, 10, 7, 6, 9]
+  },
+  {
+    "job_title": "Energienetwerkplanner",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Maakt technische ontwerpen of planningen voor duurzame infrastructuur.",
+    "education_level": "HBO",
+    "job_outlook": "Gemiddeld – vereist ervaring, maar veelgevraagd bij bouw en overheid.",
+    "themes": [4, 7, 3, 8, 8, 5, 6]
+  },
+  {
+    "job_title": "Klimaatonderzoeker",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert toegepast of fundamenteel onderzoek uit naar duurzame technologieën.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – onderzoek is belangrijk maar posities zijn competitief.",
+    "themes": [3, 5, 2, 9, 9, 4, 5]
+  },
+  {
+    "job_title": "Cybersecurity-expert",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Beveiligt kritieke infrastructuren tegen digitale dreigingen.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – toenemende digitalisering maakt dit een groeiveld.",
+    "themes": [3, 4, 2, 5, 9, 4, 5]
+  },
+  {
+    "job_title": "Milieubiotechnoloog",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert specialistisch werk uit binnen energie, watertechnologie of veiligheid.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en technologische ontwikkelingen.",
+    "themes": [3, 5, 3, 9, 8, 4, 5]
+  },
+  {
+    "job_title": "Geotechnisch ingenieur",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Ontwerpt, onderzoekt of verbetert systemen voor energie, water of veiligheid.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – grote behoefte aan ingenieurs door klimaatverandering en vernieuwing.",
+    "themes": [4, 7, 4, 8, 9, 5, 6]
+  },
+  {
+    "job_title": "Klimaatadaptatiespecialist",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert specialistisch werk uit binnen energie, watertechnologie of veiligheid.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en technologische ontwikkelingen.",
+    "themes": [3, 5, 3, 9, 8, 5, 6]
+  },
+  {
+    "job_title": "Offshore-engineer",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Ontwerpt, onderzoekt of verbetert systemen voor energie, water of veiligheid.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – grote behoefte aan ingenieurs door klimaatverandering en vernieuwing.",
+    "themes": [3, 6, 6, 7, 8, 4, 5]
+  },
+  {
+    "job_title": "Technoloog groene chemie",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert specialistisch werk uit binnen energie, watertechnologie of veiligheid.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en technologische ontwikkelingen.",
+    "themes": [3, 5, 3, 9, 8, 4, 5]
+  },
+  {
+    "job_title": "Smart grid specialist",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert specialistisch werk uit binnen energie, watertechnologie of veiligheid.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en technologische ontwikkelingen.",
+    "themes": [3, 6, 3, 8, 8, 4, 5]
+  },
+  {
+    "job_title": "Maritiem technoloog",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert specialistisch werk uit binnen energie, watertechnologie of veiligheid.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en technologische ontwikkelingen.",
+    "themes": [3, 5, 5, 7, 7, 4, 5]
+  },
+  {
+    "job_title": "Kernenergietechnicus",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert technisch werk uit met betrekking tot energie, veiligheid of waterbeheer.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – cruciale rol in de overgang naar duurzame infrastructuur.",
+    "themes": [2, 4, 3, 9, 9, 3, 4]
+  },
+  {
+    "job_title": "Klimaatmodelleringsexpert",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert specialistisch werk uit binnen energie, watertechnologie of veiligheid.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en technologische ontwikkelingen.",
+    "themes": [3, 4, 2, 8, 9, 4, 5]
+  },
+  {
+    "job_title": "Onderzoeker zonne-energie",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert toegepast of fundamenteel onderzoek uit naar duurzame technologieën.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – onderzoek is belangrijk maar posities zijn competitief.",
+    "themes": [3, 5, 2, 9, 9, 4, 5]
+  },
+  {
+    "job_title": "Wetenschapper smart cities",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert toegepast of fundamenteel onderzoek uit naar duurzame technologieën.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – onderzoek is belangrijk maar posities zijn competitief.",
+    "themes": [3, 5, 2, 9, 9, 4, 5]
+  },
+  {
+    "job_title": "Watermanagement specialist",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Voert specialistisch werk uit binnen energie, watertechnologie of veiligheid.",
+    "education_level": "WO",
+    "job_outlook": "Gemiddeld – afhankelijk van sector en technologische ontwikkelingen.",
+    "themes": [3, 5, 3, 9, 8, 5, 6]
+  },
+  {
+    "job_title": "Klimaatadaptatie-ingenieur",
+    "domain": "Energie, Water & Veiligheid",
+    "description": "Ontwerpt, onderzoekt of verbetert systemen voor energie, water of veiligheid.",
+    "education_level": "WO",
+    "job_outlook": "Hoog – grote behoefte aan ingenieurs door klimaatverandering en vernieuwing.",
+    "themes": [4, 7, 4, 9, 9, 5, 6]
+  }
+]
